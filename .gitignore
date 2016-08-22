@@ -1,6 +1,7 @@
 corral
 .DS_Store
-data/
+data/*.csv
+!data/us-presidential-election-county-results-2004-through-2012.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

@@ -25,7 +25,10 @@ def collate_year_file(year, infile, fipsfile, omit_wkt):
         row = {k: v.strip() for k, v in r.items()}
         d = {'year': year}
         d['state'] = row['STATE']
-        d['fips'] = row['FIPS']
+        if d['state'] == 'AK':  # Alaska doesn't have counties, just legislative districts
+            d['fips'] = 'AKL' + row['FIPS'][3:]
+        else:
+            d['fips'] = row['FIPS']
         d['county'] = fipslookup.get(d['fips']) or row['COUNTY']
 
         if year in ['2004', '2008']:

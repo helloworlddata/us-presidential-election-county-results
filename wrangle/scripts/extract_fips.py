@@ -23,8 +23,12 @@ if __name__ == '__main__':
     LOGGY.info("Reading: %s" % args.infile.name)
 
     csvout = csv.writer(stdout)
-    uniquepairs = set([(row['FIPS'], row['COUNTY']) for row in DictReader(args.infile)])
+    uniquepairs = set([(row['FIPS'], row['COUNTY'], row['STATE']) for row in DictReader(args.infile)])
     for row in sorted(list(uniquepairs), key=lambda x: x[0]):
-        csvout.writerow(row)
+        fips, county, state = row
+        if state == 'AK':
+            # need to change 02010 to AKL10
+            fips = 'AKL' + fips[3:]
+        csvout.writerow([fips, county])
 
 
