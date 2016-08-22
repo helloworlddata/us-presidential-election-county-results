@@ -1,0 +1,1836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata> 
+  <idinfo> 
+    <citation> 
+      <citeinfo> 
+        <origin>National Atlas of the United States</origin>  
+        <pubdate>200904</pubdate>  
+        <title>2004 Presidential General Election, County Results - Direct Download</title>  
+        <geoform>Map</geoform>  
+        <pubinfo> 
+          <pubplace>Reston, VA</pubplace>  
+          <publish>National Atlas of the United States</publish> 
+        </pubinfo>  
+        <onlink>http://dds.cr.usgs.gov/pub/data/nationalatlas/elpo04p020_nt00334.tar.gz</onlink> 
+      </citeinfo> 
+    </citation>  
+    <descript> 
+      <abstract>This data set portrays election results, by counties for 49 States and by election districts for Alaska, for the 2004 Presidential general election. Reported for each county are the popular vote count for the Democratic Party candidate, the Republican Party candidate, and all other votes. Also reported are the percentage of the vote cast for each party?s candidate, based on the total number of valid votes cast. Over votes (ballots which contained votes for more than one candidate) and under votes (ballots which contained votes for no candidate) are not included in the total number of votes reported. For details particular to each State, see the Process Steps.</abstract>  
+      <purpose>These data are intended for geographic display and analysis at the national level, and for large regional areas. The data should be displayed and analyzed at scales appropriate for 1:2,000,000-scale data. The National Atlas of the United States assumes no responsibility for the use of these data.</purpose> 
+    </descript>  
+    <timeperd> 
+      <timeinfo> 
+        <sngdate> 
+          <caldate>200902</caldate> 
+        </sngdate> 
+      </timeinfo>  
+      <current>Publication date</current> 
+    </timeperd>  
+    <status> 
+      <progress>Complete</progress>  
+      <update>None planned</update> 
+    </status>  
+    <spdom> 
+      <bounding> 
+        <westbc>172</westbc>  
+        <eastbc>-64</eastbc>  
+        <northbc>72</northbc>  
+        <southbc>18</southbc> 
+      </bounding> 
+    </spdom>  
+    <keywords> 
+      <theme> 
+        <themekt>ISO 19115 Topic Category</themekt>  
+        <themekey>society</themekey> 
+      </theme>  
+      <theme> 
+        <themekt>None</themekt>  
+        <themekey>2004 Presidential Election</themekey>  
+        <themekey>Presidential elections</themekey>  
+        <themekey>Elections</themekey>  
+        <themekey>General elections</themekey>  
+        <themekey>Popular votes</themekey>  
+        <themekey>Political parties</themekey>  
+        <themekey>Democratic</themekey>  
+        <themekey>Republican</themekey>  
+        <themekey>Votes</themekey>  
+        <themekey>Election Districts</themekey>  
+        <themekey>Counties</themekey> 
+      </theme>  
+      <place> 
+        <placekt>None</placekt>  
+        <placekey>United States</placekey>  
+        <placekey>Alabama</placekey>  
+        <placekey>Alaska</placekey>  
+        <placekey>Arizona</placekey>  
+        <placekey>Arkansas</placekey>  
+        <placekey>California</placekey>  
+        <placekey>Colorado</placekey>  
+        <placekey>Connecticut</placekey>  
+        <placekey>Delaware</placekey>  
+        <placekey>District of Columbia</placekey>  
+        <placekey>Florida</placekey>  
+        <placekey>Georgia</placekey>  
+        <placekey>Hawaii</placekey>  
+        <placekey>Idaho</placekey>  
+        <placekey>Illinois</placekey>  
+        <placekey>Indiana</placekey>  
+        <placekey>Iowa</placekey>  
+        <placekey>Kansas</placekey>  
+        <placekey>Kentucky</placekey>  
+        <placekey>Louisiana</placekey>  
+        <placekey>Maine</placekey>  
+        <placekey>Maryland</placekey>  
+        <placekey>Massachusetts</placekey>  
+        <placekey>Michigan</placekey>  
+        <placekey>Minnesota</placekey>  
+        <placekey>Mississippi</placekey>  
+        <placekey>Missouri</placekey>  
+        <placekey>Montana</placekey>  
+        <placekey>Nebraska</placekey>  
+        <placekey>Nevada</placekey>  
+        <placekey>New Hampshire</placekey>  
+        <placekey>New Jersey</placekey>  
+        <placekey>New Mexico</placekey>  
+        <placekey>New York</placekey>  
+        <placekey>North Carolina</placekey>  
+        <placekey>North Dakota</placekey>  
+        <placekey>Ohio</placekey>  
+        <placekey>Oklahoma</placekey>  
+        <placekey>Oregon</placekey>  
+        <placekey>Pennsylvania</placekey>  
+        <placekey>Rhode Island</placekey>  
+        <placekey>South Carolina</placekey>  
+        <placekey>South Dakota</placekey>  
+        <placekey>Tennessee</placekey>  
+        <placekey>Texas</placekey>  
+        <placekey>Utah</placekey>  
+        <placekey>Vermont</placekey>  
+        <placekey>Virginia</placekey>  
+        <placekey>Washington</placekey>  
+        <placekey>West Virginia</placekey>  
+        <placekey>Wisconsin</placekey>  
+        <placekey>Wyoming</placekey>  
+        <placekey>USA</placekey> 
+      </place> 
+    </keywords>  
+    <accconst>None</accconst>  
+    <useconst>None. Acknowledgment of the National Atlas of the United States of America would be appreciated in products derived from these data.</useconst>  
+    <ptcontac> 
+      <cntinfo> 
+        <cntperp> 
+          <cntper>Terry Higgins</cntper>  
+          <cntorg>National Atlas of the United States</cntorg> 
+        </cntperp>  
+        <cntaddr> 
+          <addrtype>Mailing address</addrtype>  
+          <address>1400 Independence Road</address>  
+          <address>MS 700</address>  
+          <city>Rolla</city>  
+          <state>MO</state>  
+          <postal>65401</postal> 
+        </cntaddr>  
+        <cntvoice>573 308-3592</cntvoice>  
+        <cntemail>atlasmail@usgs.gov</cntemail> 
+      </cntinfo> 
+    </ptcontac> 
+  </idinfo>  
+  <dataqual> 
+    <logic>The data set was checked for topological consistency using the ArcInfo command BUILD. No other checks for logical consistency were performed on this data set.</logic>  
+    <complete>This data set includes election information for all 50 States and the District of Columbia. Data completeness generally reflects the source files.</complete>  
+    <lineage> 
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>National Atlas of the United States</origin>  
+            <pubdate>200506</pubdate>  
+            <title>County Boundaries of the United States, 2001</title>  
+            <pubinfo> 
+              <pubplace>Reston, VA</pubplace>  
+              <publish>National Atlas of the United States</publish> 
+            </pubinfo>  
+            <onlink>http://nationalatlas.gov/atlasftp.html?openChapters</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <srcscale>2000000</srcscale>  
+        <typesrc>online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <rngdates> 
+              <begdate>1972</begdate>  
+              <enddate>2001</enddate> 
+            </rngdates> 
+          </timeinfo>  
+          <srccurr>Ground Condition</srccurr> 
+        </srctime>  
+        <srccitea>COUNTYP020</srccitea>  
+        <srccontr>Spatial and attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Alabama Secretary of State</origin>  
+            <pubdate>Unknown</pubdate>  
+            <title>2004 General Election Results ? County Level</title>  
+            <onlink>http://www.sos.state.al.us/downloads/dl2.cfm?div1=Elections%20Division&amp;types=Data</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>AL_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>State of Alaska Division of Elections</origin>  
+            <pubdate>Unknown</pubdate>  
+            <title>State of Alaska 2004 General Election House District Official Results</title>  
+            <onlink>http://www.elections.alaska.gov/04genr/index.shtml</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>AK_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Arizona Secretary of State</origin>  
+            <pubdate>Unknown</pubdate>  
+            <title>State of Arizona Official Canvass - 2004 General Election</title>  
+            <onlink>http://azsos.gov/election/2004/general/ElectionInformation.htm</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>AZ_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Arkansas Secretary of State</origin>  
+            <pubdate>Unknown</pubdate>  
+            <title>Certification Report, 2004 General Election and Non-Partisan Judicial Runoff, 2004-11-02, County Summary</title>  
+            <onlink>http://www.arelections.org/results/66/elec66_bycounty-all.html</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>AR_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>California Secretary of State</origin>  
+            <pubdate>Unknown</pubdate>  
+            <title>Statement of Vote and Supplement to the Statement of Vote 2004 Presidential General Election</title>  
+            <onlink>http://www.ss.ca.gov/elections/sov/2004_general/contents.htm</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>CA_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Colorado Secretary of State</origin>  
+            <pubdate>2004</pubdate>  
+            <title>Official Publication of the Abstract of Votes Cast for the 2003 Coordinated, 2004 Primary, 2004 General</title>  
+            <onlink>http://www.elections.colorado.gov/WWW/default/Prior%20Years%20Election%20Information/2004/Abstract%202003%202004%20082305%20Late%20PM-5.pdf</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>CO_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Connecticut Secretary of the State</origin>  
+            <pubdate>2004</pubdate>  
+            <title>2004 Statement of Vote</title>  
+            <onlink>http://209.101.151.73/statementofvote/Reports/PE_by2.html</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>CT_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>State of Delaware Commissioner of Elections</origin>  
+            <pubdate>2004</pubdate>  
+            <title>Official Election Results, General Elections - 11/02/04, Statewide Offices By County</title> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>DE_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>District of Columbia, Board of Elections and Ethics</origin>  
+            <pubdate>2004</pubdate>  
+            <title>Certified Summary Results, DC Presidential General 2004</title>  
+            <onlink>http://www.dcboee.org/information/elec_2004/pres_general_2004_results.shtm</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>DC_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Florida Division of Elections</origin>  
+            <pubdate>2004</pubdate>  
+            <title>November 2, 2004 General Election, Official Results</title>  
+            <onlink>http://election.dos.state.fl.us/elections/resultsarchive/ downloadresults.asp?ElectionDate=11/2/2004&amp;DATAMODE</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>FL_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Georgia Secretary of State</origin>  
+            <pubdate>2004</pubdate>  
+            <title>Georgia Election Results, Official Results of the November 2, 2004 General Election</title>  
+            <onlink>http://www.sos.state.ga.us/elections/election_results/2004_1102/001.htm</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>GA_results1</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Georgia Secretary of State</origin>  
+            <pubdate>2004</pubdate>  
+            <title>General Election, Write-In candidates, November 2, 2004</title>  
+            <onlink>http://www.sos.state.ga.us/elections/election_results/write-in_2004.htm</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>GA_results2</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>State of Hawaii, Office of Elections</origin>  
+            <pubdate>2004</pubdate>  
+            <title>General Election 2004 Certified County Summaries</title>  
+            <onlink>http://www.hawaii.gov/elections/results/2004/general/</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>HI_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Idaho Secretary of State</origin>  
+            <pubdate>2004</pubdate>  
+            <title>November 2, 2004 General Election Results U.S. President - by county</title>  
+            <onlink>http://www.idsos.state.id.us/ELECT/RESULTS/2004/general/cnty_pres.htm</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>ID_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Illinois State Board of Elections</origin>  
+            <pubdate>2004</pubdate>  
+            <title>Candidate Totals by County, 2004 General Election</title>  
+            <onlink>http://www.elections.state.il.us/ElectionInformation/DownloadVoteTotals.aspx</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>IL_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Indiana Secretary of State</origin>  
+            <pubdate>2004</pubdate>  
+            <title>Indiana General Election November 2, 2004, Statewide, President and Vice- President</title>  
+            <onlink>http://www.in.gov/apps/sos/election/general/general2004?page=district&amp; countyID=1&amp;officeID=36&amp;districtID=937&amp;candidate</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>IN_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Iowa Secretary of State</origin>  
+            <pubdate>2004</pubdate>  
+            <title>State of Iowa Canvass Summary, 2004 General Election</title>  
+            <onlink>http://www.sos.state.ia.us/pdfs/elections/2004/general/CanvassSummary.pdf</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>IA_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Kansas Secretary of State</origin>  
+            <pubdate>2004</pubdate>  
+            <title>2004 November 2 General Election Official results by County</title>  
+            <onlink>http://www.kssos.org/elections/elections_statistics.html</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>KS_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Kentucky State Board of Elections</origin>  
+            <pubdate>2004</pubdate>  
+            <title>Kentucky State Board of Elections Report of "Official" Election Night Tally Results</title>  
+            <onlink>http://elect.ky.gov/NR/rdonlyres/BB0D042A-9631-4B90-8C67-634C69E5BA75/7471/res_COUNTY.txt</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>KY_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Massachusetts Secretary of the Commonwealth, Elections Division</origin>  
+            <pubdate>2004</pubdate>  
+            <title>Electors of President and Vice President</title> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Paper</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>MA_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Minnesota Secretary of State</origin>  
+            <pubdate>2004</pubdate>  
+            <title>Minnesota Presidential Results by County</title> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Electronic mail</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>MN_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Maine Secretary of State</origin>  
+            <pubdate>2004</pubdate>  
+            <title>General Election Tabulations, President of the United States</title>  
+            <onlink>http://www.maine.gov/sos/cec/elec/2004n/pr.htm</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>ME_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Columbia University Press</origin>  
+            <pubdate>2000</pubdate>  
+            <title>Columbia Gazetteer of North America; Townships in Maine, United States</title>  
+            <onlink>http://reference.allrefer.com/gazetteer/us-categories/maine-township.html</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>2000</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Publication date</srccurr> 
+        </srctime>  
+        <srccitea>ME_1</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>JobsInTheUS.com</origin>  
+            <pubdate>2006</pubdate>  
+            <title>Cities and Towns of Maine</title>  
+            <onlink>http://www.jobsinme.com/misc/page.aspx?pagenum=279</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>2006</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Publication date</srccurr> 
+        </srctime>  
+        <srccitea>ME_2</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Ray Angelo, Harvard University Herbaria</origin>  
+            <pubdate>2006</pubdate>  
+            <title>County Location of New England Place Names</title>  
+            <onlink>http://neatlas.huh.harvard.edu/NECounty/ME.html</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>2006</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Publication date</srccurr> 
+        </srctime>  
+        <srccitea>ME_3</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Maine Office of the Revisor of Statutes</origin>  
+            <pubdate>2006</pubdate>  
+            <title>State Senate Districts</title>  
+            <onlink>http://janus.state.me.us/legis/statutes/21-a/title21-Asec1203-A.html</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>2006</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>ME_4</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Maryland State Board of Elections</origin>  
+            <pubdate>2004</pubdate>  
+            <title>2004 Presidential General Official Result</title>  
+            <onlink>http://elections.state.md.us/elections/2004/general/president.html</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>MD_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Michigan Secretary of State</origin>  
+            <pubdate>2004</pubdate>  
+            <title>Election Results, General Election, November 02, 2004</title>  
+            <onlink>http://miboecfr.nicusa.com/election/results/04GEN/01000000.html</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>MI_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Mississippi Secretary of State</origin>  
+            <pubdate>2004</pubdate>  
+            <title>Total Votes Reported by County for 2004 General Election</title>  
+            <onlink>http://www.mississippi.gov/frameset.jsp?URL=http%3A%2F%2Fwww.sos.state.ms.us%2F</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>MS_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Missouri Secretary of State</origin>  
+            <pubdate>2004</pubdate>  
+            <title>November 2, 2004 General Election County Reporting</title>  
+            <onlink>http://www.sos.mo.gov/enrweb/countyselect.asp?eid=131&amp;arc=</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>MO_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Montana Secretary of State</origin>  
+            <pubdate>2004</pubdate>  
+            <title>2004 STATEWIDE GENERAL ELECTION RESULTS ~ NOVEMBER 2nd, 2004</title>  
+            <onlink>http://sos.mt.gov/ELB/archives/2004/2004-GenState.pdf</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>MT_result</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Nebraska Secretary of State</origin>  
+            <pubdate>2004</pubdate>  
+            <title>Official Results-2004 General Election, President of the United States</title>  
+            <onlink>http://www.sos.state.ne.us/elec/canvass/general2004/Pres.htm</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>NE_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Nevada Secretary of State</origin>  
+            <pubdate>2004</pubdate>  
+            <title>2004 General Election Coverage and Reports</title>  
+            <onlink>http://sos.state.nv.us/nvelection/2004General/</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>NV_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Office of the Attorney General, Division of Elections</origin>  
+            <pubdate>2004</pubdate>  
+            <title>Official List, Candidates for President</title>  
+            <onlink>http://www.state.nj.us/lps/elections/2004results/04generalelection/ official_04_gen_pres_results.pdf</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>NJ_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>New Mexico Secretary of State</origin>  
+            <pubdate>2004</pubdate>  
+            <title>Canvass of Returns of General Election Held on November 2, 2004 ? State of New Mexico</title>  
+            <onlink>http://www.sos.state.nm.us/Main/Elections/2004/04%20CntyIndx.htm</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>NM_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>New York State Board of Elections</origin>  
+            <pubdate>2004</pubdate>  
+            <title>NYS Board of Elections President and Vice-President Election Returns Nov. 2, 2004</title>  
+            <onlink>http://www.elections.state.ny.us/NYSBOE/elections/2004/president04.pdf</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>NY_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>State of New Hampshire Elections Division</origin>  
+            <pubdate>2004</pubdate>  
+            <title>STATE GENERAL ELECTION - November 2, 2004</title>  
+            <onlink>http://www.sos.nh.gov/general%202004/sumpres04.htm</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>NH_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>North Carolina Board of Elections</origin>  
+            <pubdate>2004</pubdate>  
+            <title>11/02/2004 OFFICIAL GENERAL ELECTION RESULTS</title>  
+            <onlink>http://www.sboe.state.nc.us/enrs/main_primary.asp?ED=11xx02xx2004&amp;EL =GENERAL&amp;YR=2004&amp;CR=A</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>NC_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>North Dakota Secretary of State</origin>  
+            <pubdate>2004</pubdate>  
+            <title>Official Election Results - All Counties, President of the United States</title>  
+            <onlink>http://web.apps.state.nd.us/sec/emspublic/gp/electionresultssearch.htm ?cmd=Search&amp;searchType=COUNTY&amp;electionDate=11022004&amp;showMap= N&amp;countyNo=All+Counties</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>ND_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Ohio Secretary of State</origin>  
+            <pubdate>2004</pubdate>  
+            <title>Election Results; President, Full Term Commencing January 20, 2005; Official Tabulation: November 2, 2004</title>  
+            <onlink>http://www.sos.state.oh.us/sos/ElectionsVoter/results2004.aspx?Section=135</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>OH_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Oklahoma State Election Board</origin>  
+            <pubdate>2004</pubdate>  
+            <title>PRESIDENT AND VICE PRESIDENT OF THE UNITED STATES General Election ? November 2, 2004</title>  
+            <onlink>http://www.elections.state.ok.us/04pres.pdf</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>OK_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Oregon Secretary of State</origin>  
+            <pubdate>2004</pubdate>  
+            <title>Official Results - November 2, 2004, General Election</title>  
+            <onlink>http://www.sos.state.or.us/elections/nov22004/g04abstract.html</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>OR_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Pennsylvania Department of State</origin>  
+            <pubdate>2004</pubdate>  
+            <title>2004 General Election; Tuesday, November 02, 2004; Official Returns</title>  
+            <onlink>http://www.electionreturns.state.pa.us/ElectionsInformation.aspx ?FunctionID=15&amp;ElectionID=11&amp;OfficeID=1</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>PA_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Rhode Island Board of Elections</origin>  
+            <pubdate>2004</pubdate>  
+            <title>PRESIDENTIAL ELECTION RESULTS by COMMUNITY</title>  
+            <onlink>http://www.elections.ri.gov/2004GE/results_main/pres_CT.htm</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>RI_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>State of Rhode Island</origin>  
+            <pubdate>2004</pubdate>  
+            <title>Rhode Island 2003-2004 Highway Map</title>  
+            <onlink>http://www.visitrhodeisland.com/images/img_state_map_lg.jpg</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>RI_map</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>South Carolina State Election Commission</origin>  
+            <pubdate>2004</pubdate>  
+            <title>November 2, 2004, South Carolina State Wide General Election Official Results, President and Vice President</title>  
+            <onlink>http://www.state.sc.us/scsec/returns.html</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>SC_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>South Dakota Secretary of State</origin>  
+            <pubdate>2004</pubdate>  
+            <title>General Election Official Returns for Presidential Electors</title>  
+            <onlink>http://sdsos.gov/electionsvoteregistration/pastelections_electioninfo04_GEreturnsforpresidentialelectors.shtm</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>SD_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Tennessee Secretary of State</origin>  
+            <pubdate>2004</pubdate>  
+            <title>November 2, 2004, General Election Official Results</title>  
+            <onlink>http://tennessee.gov/sos/election/results/2004-11/prescounty.pdf</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>TN_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Texas Secretary of State</origin>  
+            <pubdate>2004</pubdate>  
+            <title>2004 General Election, 11/2/2004, President/Vice-President</title>  
+            <onlink>http://elections.sos.state.tx.us/elchist.exe</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>TX_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Utah Lieutenant Governor?s Office</origin>  
+            <pubdate>2004</pubdate>  
+            <title>2004 General Election Results, U.S. President</title>  
+            <onlink>http://elections.utah.gov/2004_canvass_president.pdf</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>UT_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Vermont Secretary of State</origin>  
+            <pubdate>2004</pubdate>  
+            <title>Detailed 2004 General Election Results for U.S. President</title>  
+            <onlink>http://vermont-elections.org/elections1/2004_election_info.html</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>VT_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Virginia State Board of Elections</origin>  
+            <pubdate>2004</pubdate>  
+            <title>Commonwealth of Virginia, November 2nd - General Election, Official Results</title>  
+            <onlink>http://www2.sbe.virginia.gov/web_docs/Election/Results/2004/Nov2004/l_01.htm</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>VA_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Washington Secretary of State</origin>  
+            <pubdate>2004</pubdate>  
+            <title>2004 General Election &gt; Federal Offices &gt; President/Vice President &gt; Results by County</title>  
+            <onlink>http://vote.wa.gov/Elections/Results/ResultsByCounty.aspx?e=a3501711-c318-45f4-8a03-1d926ac839b7&amp;j=a077943e-44ef-4b4e-b051-34b41c48179b&amp;o=7b5d7925- 77f3-4363-9c1c-0bc6d285a739</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>WA_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>West Virginia Secretary of State</origin>  
+            <pubdate>2004</pubdate>  
+            <title>U.S. President</title>  
+            <onlink>http://www.wvsos.com/elections/history/results/electionresults.htm</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>WV_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Wisconsin State Elections Board</origin>  
+            <pubdate>2004</pubdate>  
+            <title>Wisconsin State Elections Board, Canvass Summary, Fall General Election ? 11/02/2004</title>  
+            <onlink>http://elections.state.wi.us/subcategory.asp?linksubcatid=391&amp;linkcatid=491&amp;linkid=155&amp;locid=47</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>WI_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Wyoming Secretary of State</origin>  
+            <pubdate>2004</pubdate>  
+            <title>Statewide Candidates' Abstract -- Official Wyoming General Election Results -- November 2, 2004</title>  
+            <onlink>http://soswy.state.wy.us/election/2004/results/GS-State.pdf</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20041102</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Election date</srccurr> 
+        </srctime>  
+        <srccitea>WY_results</srccitea>  
+        <srccontr>Attribute information.</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>U.S. Department of Commerce, U.S. Census Bureau, Geography Division</origin>  
+            <pubdate>2007</pubdate>  
+            <title>TIGER/Line Shapefile, 2007, state, Alaska, State Legislative District (SLD) Lower Chamber</title>  
+            <pubinfo> 
+              <pubplace>Washington, D.C.</pubplace>  
+              <publish>U.S. Census Bureau</publish> 
+            </pubinfo>  
+            <onlink>http://www.census.gov/cgi-bin/geo/shapefiles/state-files?state=02</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>2007</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Ground Condition</srccurr> 
+        </srctime>  
+        <srccitea>AKSLD_LC</srccitea>  
+        <srccontr>Spatial information.</srccontr> 
+      </srcinfo>  
+      <procstep> 
+        <procdesc>The county boundaries file was modified to include attributes for the Democratic vote, Republican vote, and Other votes. Attributes were also added for the percentage of the vote received by each party, and for symbology. The square miles attribute was deleted, and the file was renamed. Official results for Alabama were download and processed in Excel to total the Other votes. Over and under votes were not included. The vote fields were populated. Official results for Arizona were printed from the Web site, the Other category was totaled manually, and the vote fields were populated. Official results for Arkansas were viewed online, the Other category was totaled manually, and the vote fields were populated.</procdesc>  
+        <srcused>COUNTYP020</srcused>  
+        <srcused>AL_results</srcused>  
+        <srcused>AZ_results</srcused>  
+        <srcused>AR_results</srcused>  
+        <procdate>200607</procdate> 
+      </procstep>  
+      <procstep> 
+        <procdesc>Official results for California were download as an Excel file and processed in Excel to total the Other votes. The vote fields were populated. Official results for Colorado were printed from the .pdf file, the Other category was totaled manually, and the vote fields were populated. Official results for Connecticut were printed from the Web page, the Other category was totaled manually, and the vote fields were populated. Official results for Delaware were viewed online, the Other category was totaled manually, and the vote fields were populated. Official results for the District of Columbia were viewed online, the Other category was totaled manually, and the vote fields were populated. Official results for Florida were downloaded, the Other category was totaled manually, and the vote fields were populated. Official results for Georgia were printed from the Web pages, the Other category was totaled manually, and the vote fields were populated. Official results for Hawaii were viewed online, the Other category was totaled Manually, and the vote fields were populated. No separate data are available for Kalawao County, so the vote values were set to -9999. Any votes in Kalawao County are included with the totals for Maui. Official results for Idaho were viewed online, the Other category was totaled manually, and the vote fields were populated. Official results for Illinois were downloaded as an Excel file and processed in Excel to total the Other votes. The vote fields were populated. Official results for Indiana were viewed online, the Other category was totaled manually, and the vote fields were populated. Official results for Iowa were viewed online, the Other category was totaled manually, and the vote fields were populated. Official results for Kansas were downloaded as an Excel file and processed in Excel to total the Other votes. The vote fields were populated. Official results for Massachusetts were provided in printed form by the office of the Secretary of the Commonwealth. The Other category was totaled manually, and the vote fields were populated. Official results for Minnesota were provided as an Excel file sent by electronic mail from the Secretary of State?s office. The file was processed in Excel to total the Other votes, and the vote fields were populated.</procdesc>  
+        <srcused>COUNTYP020</srcused>  
+        <srcused>CA_results</srcused>  
+        <srcused>CO_results</srcused>  
+        <srcused>CT_results</srcused>  
+        <srcused>DE_results</srcused>  
+        <srcused>DC_results</srcused>  
+        <srcused>FL_results</srcused>  
+        <srcused>GA_results1</srcused>  
+        <srcused>GA_results2</srcused>  
+        <srcused>HI_results</srcused>  
+        <srcused>ID_results</srcused>  
+        <srcused>IL_results</srcused>  
+        <srcused>IN_results</srcused>  
+        <srcused>IA_results</srcused>  
+        <srcused>KS_results</srcused>  
+        <srcused>MA_results</srcused>  
+        <srcused>MN_results</srcused>  
+        <procdate>200608</procdate> 
+      </procstep>  
+      <procstep> 
+        <procdesc>Official results for Kentucky were viewed online, the Other category was totaled manually, and the vote fields were populated. Official results for Louisiana were viewed online, the Other category was totaled manually, and the vote fields were populated. Official results for Maine were downloaded. Results are reported by town, so towns and townships were allocated to the appropriate county. Most county allocations were based on information in ME_4, with additional information obtained from ME_1, ME_2, and ME_3,. Results were entered into an Excel spreadsheet which was then used to calculate county totals and the Other category totals. The vote fields were populated.</procdesc>  
+        <srcused>COUNTYP020</srcused>  
+        <srcused>KY_results</srcused>  
+        <srcused>LA_results</srcused>  
+        <srcused>ME_results</srcused>  
+        <srcused>ME_1</srcused>  
+        <srcused>ME_2</srcused>  
+        <srcused>ME_3</srcused>  
+        <srcused>ME_4</srcused>  
+        <procdate>200609</procdate> 
+      </procstep>  
+      <procstep> 
+        <procdesc>Official results for Maryland were viewed online, the Other category was totaled manually, and the vote fields were populated. Official results for Michigan were viewed online, the Other category was totaled manually, and the vote fields were populated. Official results for Mississippi were printed from the .pdf file, the Other category was totaled manually, and the vote fields for some counties were populated. Official results for Missouri were viewed online and the Other category was totaled manually. Results reported for Kansas City were manually totaled with those for reported for Jackson County, to produce the Jackson County total. The vote fields were populated. Official results for Montana were viewed online, the Other category was totaled manually, and the vote fields were populated. Official results for Nebraska were viewed online, the Other category was totaled manually, and the vote fields were populated. Official results for Nevada were viewed online and the Other category was totaled manually. Votes for ?None of these Candidates? were included in the Other category totals. The vote fields were populated. Official results for New Jersey were viewed online, the Other category was totaled manually, and the vote fields were populated. Official results for New Mexico were viewed online, the Other category was totaled manually, and the vote fields were populated. Official results for New York were download and processed in Excel to total the Other votes. New York allows cross endorsements. Kerry and Edwards were the candidates of both the Democratic Party and the Working Families Party; votes for both parties were totaled and are reported as the Democratic vote. Bush and Cheney were the candidates of both the Republican Party and the Conservative Party; votes for both parties were totaled and are reported as the Republican vote. The Scatter category includes void votes and was not included in the Other total. The vote fields were populated. Official results for New Hampshire were viewed online and the Other category was totaled manually. Scatter votes are valid votes and were included in the Other total. The vote fields were populated.</procdesc>  
+        <srcused>COUNTYP020</srcused>  
+        <srcused>MD_results</srcused>  
+        <srcused>MI_results</srcused>  
+        <srcused>MS_results</srcused>  
+        <srcused>MO_results</srcused>  
+        <srcused>MT_results</srcused>  
+        <srcused>NE_results</srcused>  
+        <srcused>NV_results</srcused>  
+        <srcused>NJ_results</srcused>  
+        <srcused>NM_results</srcused>  
+        <srcused>NY_results</srcused>  
+        <srcused>NH_results</srcused>  
+        <procdate>200610</procdate> 
+      </procstep>  
+      <procstep> 
+        <procdesc>Official results for North Carolina were download and processed in Excel to total the Other votes. The vote fields were populated. Official results for North Dakota were viewed online, the Other category was totaled manually, and the vote fields were populated. Official results for Ohio were viewed online, the Other category was totaled manually, and the vote fields were populated. Official results for Oklahoma were viewed online and the vote fields were populated. There were only two candidates on the ballot in Oklahoma so the Other category was set to zero for all counties. Official results for Oregon were download and processed in Excel to total the Other votes. The vote fields were populated. Official results for Pennsylvania were viewed online, the Other category was totaled manually, and the vote fields were populated. Official results for Rhode Island were downloaded and processed in Excel. Results are reported by community, so RI_map was used to assign communities to the appropriate county. Excel was used to total the Other category, and the vote fields were populated. Official results for South Carolina were download and processed in Excel to total the Other votes. The vote fields were populated. Official results for South Dakota were download and processed in Excel to total the Other votes. The vote fields were populated. Official results for Tennessee were download and processed in Excel to total the Other votes. The vote fields were populated. Official results for Texas were download and processed in Excel to total the Other votes. The vote fields were populated. Official results for Utah were download and processed in Excel to total the Other votes. The vote fields were populated.</procdesc>  
+        <srcused>COUNTYP020</srcused>  
+        <srcused>NC_results</srcused>  
+        <srcused>ND_results</srcused>  
+        <srcused>OH_results</srcused>  
+        <srcused>OK_results</srcused>  
+        <srcused>OR_results</srcused>  
+        <srcused>PA_results</srcused>  
+        <srcused>RI_results</srcused>  
+        <srcused>RI_map</srcused>  
+        <srcused>SC_results</srcused>  
+        <srcused>SD_results</srcused>  
+        <srcused>TN_results</srcused>  
+        <srcused>TX_results</srcused>  
+        <srcused>UT_results</srcused>  
+        <procdate>200611</procdate> 
+      </procstep>  
+      <procstep> 
+        <procdesc>Official results for Vermont were download and processed in Excel to total the Other votes. The vote fields were populated. Official results for Virginia were viewed online, the Other category was totaled manually, and the vote fields were populated. Official results for Washington were viewed online, the Other category was totaled manually, and the vote fields were populated. Official results for West Virginia were download and processed in Excel to total the Other votes. The vote fields were populated. Official results for Wisconsin were viewed online and the Other category was totaled manually. Scattering votes were included in the Other category. The vote fields were populated. Official results for Wyoming were download and processed in Excel to total the Other votes. The vote fields were populated. Remaining data from Mississippi were added. Polygons for Puerto Rico and the Virgin Islands were deleted.</procdesc>  
+        <srcused>COUNTYP020</srcused>  
+        <srcused>VT_results</srcused>  
+        <srcused>VA_results</srcused>  
+        <srcused>WA_results</srcused>  
+        <srcused>WV_results</srcused>  
+        <srcused>WI_results</srcused>  
+        <srcused>WY_results</srcused>  
+        <srcused>MS_results</srcused>  
+        <procdate>200612</procdate> 
+      </procstep>  
+      <procstep> 
+        <procdesc>A field was added for total votes. For all records with vote counts, the three vote values were summed to get the total number of votes. The vote percentages were calculated for the Democratic, Republican, and all Other parties. For Kalawao County, HI, the percentages were set to -9999. The symbol code was set. This code is used for the Map Maker display. For Kalawao County, Hawaii (there are no values for this county)will be symbolized with the lightest democratic color.</procdesc>  
+        <procdate>200701</procdate> 
+      </procstep>  
+      <procstep> 
+        <procdesc>State legislative district boundaries were added to COUNTYP020 for the State of Alaska using AKSLD_LC National Atlas geometry was used where district boundaries were coincident with National Atlas base features.</procdesc>  
+        <srcused>COUNTYP020</srcused>  
+        <srcused>AKSLD_LC</srcused>  
+        <procdate>200810</procdate> 
+      </procstep>  
+      <procstep> 
+        <procdesc>Official results for Alaska were printed from the Web site, the Other category was totaled manually, and the vote fields were populated.</procdesc>  
+        <srcused>COUNTYP020</srcused>  
+        <srcused>AK_results</srcused>  
+        <procdate>200811</procdate> 
+      </procstep> 
+    </lineage> 
+  </dataqual>  
+  <spdoinfo> 
+    <indspref>U.S. Department of Commerce, 1987, Codes for the Identification of the States, the District of Columbia and the Outlying areas of the United States, and Associated Areas (FIPS 5-2): Washington, DC, National Institute of Standards and Technology. U.S. Department of Commerce, 1990, Counties and Equivalent Entities of the United States, Its Possessions, and Associated Areas (FIPS 6-4): Washington, DC, National Institute of Standards and Technology.</indspref> 
+  </spdoinfo>  
+  <spref> 
+    <horizsys> 
+      <geograph> 
+        <latres>0.000278</latres>  
+        <longres>0.000278</longres>  
+        <geogunit>Decimal Degrees</geogunit> 
+      </geograph>  
+      <geodetic> 
+        <horizdn>North American Datum of 1983</horizdn>  
+        <ellips>GRS1980</ellips>  
+        <semiaxis>6378137</semiaxis>  
+        <denflat>298.257222</denflat> 
+      </geodetic> 
+    </horizsys> 
+  </spref>  
+  <eainfo> 
+    <detailed> 
+      <enttyp> 
+        <enttypl>Counties and Alaska Election Districts (described by elpo04p020.dbf)</enttypl>  
+        <enttypd>The second order division of a nation, such as a parish, municipio, judicial division, and independent cities in Maryland, Missouri, Nevada, and Virginia and districts used for elections in Alaska.</enttypd>  
+        <enttypds>National Atlas of the United States</enttypds> 
+      </enttyp>  
+      <attr> 
+        <attrlabl>Shape</attrlabl>  
+        <attrdef>The representation of the entity in the data.</attrdef>  
+        <attrdefs>National Atlas of the United States</attrdefs>  
+        <attrdomv> 
+          <edom> 
+            <edomv>Polygon</edomv>  
+            <edomvd>2-dimensional element</edomvd>  
+            <edomvds>ESRI GIS software</edomvds> 
+          </edom> 
+        </attrdomv> 
+      </attr>  
+      <attr> 
+        <attrlabl>Area</attrlabl>  
+        <attrdef>The size of the shape in square coverage units. In the distributed file, coverage units represent square decimal degrees.</attrdef>  
+        <attrdefs>National Atlas of the United States</attrdefs>  
+        <attrdomv> 
+          <rdom> 
+            <rdommin>0</rdommin>  
+            <rdommax>104.121</rdommax> 
+          </rdom> 
+        </attrdomv> 
+      </attr>  
+      <attr> 
+        <attrlabl>Perimeter</attrlabl>  
+        <attrdef>The perimeter of shape in coverage units. In the distributed file, coverage units represent decimal degrees.</attrdef>  
+        <attrdefs>National Atlas of the United States</attrdefs>  
+        <attrdomv> 
+          <rdom> 
+            <rdommin>0.012</rdommin>  
+            <rdommax>228.040</rdommax> 
+          </rdom> 
+        </attrdomv> 
+      </attr>  
+      <attr> 
+        <attrlabl>El2004p020</attrlabl>  
+        <attrdef>Internal feature number</attrdef>  
+        <attrdefs>National Atlas of the United States</attrdefs>  
+        <attrdomv> 
+          <rdom> 
+            <rdommin>1</rdommin>  
+            <rdommax>6020</rdommax> 
+          </rdom> 
+        </attrdomv> 
+      </attr>  
+      <attr> 
+        <attrlabl>State</attrlabl>  
+        <attrdef>The two-character abbreviation for the name of the State or State equivalent in which the area is located.</attrdef>  
+        <attrdefs>National Atlas of the United States</attrdefs>  
+        <attrdomv> 
+          <codesetd> 
+            <codesetn>Codes for the Identification of the States, the District of Columbia and the Outlying Areas of the United States, and Associated Areas; (Federal Information Processing Standard (FIPS) 5-2): Washington, DC, National Institute of Standards and Technology.</codesetn>  
+            <codesets>U.S. Department of Commerce</codesets> 
+          </codesetd> 
+        </attrdomv> 
+      </attr>  
+      <attr> 
+        <attrlabl>County</attrlabl>  
+        <attrdef>The name of the county or county equivalent. In Alaska, election districts are used in place of counties for the purpose of reporting election results.</attrdef>  
+        <attrdefs>National Atlas of the United States</attrdefs>  
+        <attrdomv> 
+          <codesetd> 
+            <codesetn>Counties and Equivalent Entities of the United States, Its Possessions, and Associated Areas; (Federal Information Processing Standard (FIPS) 6-4): Washington, DC, National Institute of Standards and Technology.</codesetn>  
+            <codesets>U.S. Department of Commerce</codesets> 
+          </codesetd> 
+        </attrdomv>  
+        <attrdomv> 
+          <codesetd> 
+            <codesetn>State-assigned legislative district (lower chamber) code.</codesetn>  
+            <codesets>State of Alaska</codesets> 
+          </codesetd> 
+        </attrdomv>  
+        <attrdomv> 
+          <edom> 
+            <edomv>&lt;blank&gt;</edomv>  
+            <edomvd>Water areas of the United States for which a county designation is not reported.</edomvd>  
+            <edomvds>National Atlas of the United States</edomvds> 
+          </edom> 
+        </attrdomv> 
+      </attr>  
+      <attr> 
+        <attrlabl>Fips</attrlabl>  
+        <attrdef>The 5-digit FIPS code of the county or county equivalent.</attrdef>  
+        <attrdefs>National Atlas of the United States</attrdefs>  
+        <attrdomv> 
+          <codesetd> 
+            <codesetn>Counties and Equivalent Entities of the United States, Its Possessions, and Associated Areas; (Federal Information Processing Standard (FIPS) 6-4): Washington, DC, National Institute of Standards and Technology.</codesetn>  
+            <codesets>U.S. Department of Commerce</codesets> 
+          </codesetd> 
+        </attrdomv>  
+        <attrdomv> 
+          <codesetd> 
+            <codesetn>Current state legislative district (lower chamber) code for Alaska.</codesetn>  
+            <codesets>U.S. Census Bureau</codesets> 
+          </codesetd> 
+        </attrdomv> 
+      </attr>  
+      <attr> 
+        <attrlabl>State_fips</attrlabl>  
+        <attrdef>The 2-digit FIPS code of the State or State equivalent.</attrdef>  
+        <attrdefs>National Atlas of the United States</attrdefs>  
+        <attrdomv> 
+          <codesetd> 
+            <codesetn>Codes for the Identification of the States, the District of Columbia and the Outlying Areas of the United States, and Associated Areas; (Federal Information Processing Standard (FIPS) 5-2): Washington, DC, National Institute of Standards and Technology.</codesetn>  
+            <codesets>U.S. Department of Commerce</codesets> 
+          </codesetd> 
+        </attrdomv> 
+      </attr>  
+      <attr> 
+        <attrlabl>Vote_dem</attrlabl>  
+        <attrdef>The number of votes received by the Democratic candidate. In States with cross- endorsement, this value may include votes for the same person which were recorded as votes for a different party.</attrdef>  
+        <attrdefs>National Atlas of the United States</attrdefs>  
+        <attrdomv> 
+          <edom> 
+            <edomv>-9999</edomv>  
+            <edomvd>Votes are not recorded for the area because there are no permanent residents.</edomvd>  
+            <edomvds>National Atlas of the United States</edomvds> 
+          </edom> 
+        </attrdomv>  
+        <attrdomv> 
+          <edom> 
+            <edomv>&lt;blank&gt;</edomv>  
+            <edomvd>A water portion of a State, for which votes are not recorded.</edomvd>  
+            <edomvds>National Atlas of the United States</edomvds> 
+          </edom> 
+        </attrdomv>  
+        <attrdomv> 
+          <rdom> 
+            <rdommin>12</rdommin>  
+            <rdommax>1907736</rdommax> 
+          </rdom> 
+        </attrdomv> 
+      </attr>  
+      <attr> 
+        <attrlabl>Vote_rep</attrlabl>  
+        <attrdef>The number of votes received by the Republican candidate. In States with cross- endorsement, this value may include votes for the same person which were recorded as votes for a different party.</attrdef>  
+        <attrdefs>National Atlas of the United States</attrdefs>  
+        <attrdomv> 
+          <edom> 
+            <edomv>-9999</edomv>  
+            <edomvd>Votes are not recorded for the area because there are no permanent residents.</edomvd>  
+            <edomvds>National Atlas of the United States</edomvds> 
+          </edom> 
+        </attrdomv>  
+        <attrdomv> 
+          <edom> 
+            <edomv>&lt;blank&gt;</edomv>  
+            <edomvd>A water portion of a State, for which votes are not recorded.</edomvd>  
+            <edomvds>National Atlas of the United States</edomvds> 
+          </edom> 
+        </attrdomv>  
+        <attrdomv> 
+          <rdom> 
+            <rdommin>65</rdommin>  
+            <rdommax>1076225</rdommax> 
+          </rdom> 
+        </attrdomv> 
+      </attr>  
+      <attr> 
+        <attrlabl>Vote_oth</attrlabl>  
+        <attrdef>The number of votes received by other candidates, including third-party and write-in candidates. This may include invalid votes in States which do not maintain separate records of valid and invalid write-in votes.</attrdef>  
+        <attrdefs>National Atlas of the United States</attrdefs>  
+        <attrdomv> 
+          <edom> 
+            <edomv>-9999</edomv>  
+            <edomvd>Votes are not recorded for the area because there are no permanent residents.</edomvd>  
+            <edomvds>National Atlas of the United States</edomvds> 
+          </edom> 
+        </attrdomv>  
+        <attrdomv> 
+          <edom> 
+            <edomv>&lt;blank&gt;</edomv>  
+            <edomvd>A water portion of a State, for which votes are not recorded.</edomvd>  
+            <edomvds>National Atlas of the United States</edomvds> 
+          </edom> 
+        </attrdomv>  
+        <attrdomv> 
+          <rdom> 
+            <rdommin>0</rdommin>  
+            <rdommax>39319</rdommax> 
+          </rdom> 
+        </attrdomv> 
+      </attr>  
+      <attr> 
+        <attrlabl>Percent_de</attrlabl>  
+        <attrdef>The percentage of votes received by the Democratic candidate. In States with cross-endorsement, this value may include votes for the same person which were recorded as votes for a different party. Vote percentages have been rounded so for any given county may total slightly more or slightly less than 100 percent.</attrdef>  
+        <attrdefs>National Atlas of the United States</attrdefs>  
+        <attrdomv> 
+          <rdom> 
+            <rdommin>7.1</rdommin>  
+            <rdommax>89.2</rdommax> 
+          </rdom> 
+        </attrdomv>  
+        <attrdomv> 
+          <edom> 
+            <edomv>-9999</edomv>  
+            <edomvd>Votes are not recorded for the area because there are no permanent residents.</edomvd>  
+            <edomvds>National Atlas of the United States</edomvds> 
+          </edom> 
+        </attrdomv> 
+      </attr>  
+      <attr> 
+        <attrlabl>Percent_re</attrlabl>  
+        <attrdef>The percentage of votes received by the Republican candidate. In States with cross-endorsement, this value may include votes for the same person which were recorded as votes for a different party. Vote percentages have been rounded so for any given county may total slightly more or slightly less than 100 percent.</attrdef>  
+        <attrdefs>National Atlas of the United States</attrdefs>  
+        <attrdomv> 
+          <rdom> 
+            <rdommin>9.3</rdommin>  
+            <rdommax>92</rdommax> 
+          </rdom> 
+        </attrdomv>  
+        <attrdomv> 
+          <edom> 
+            <edomv>-9999</edomv>  
+            <edomvd>Votes are not recorded for the area because there are no permanent residents.</edomvd>  
+            <edomvds>National Atlas of the United States</edomvds> 
+          </edom> 
+        </attrdomv> 
+      </attr>  
+      <attr> 
+        <attrlabl>Percent_ot</attrlabl>  
+        <attrdef>The percentage of votes received by other candidates, including third-party and write-in candidates. This may include invalid votes in States which do not maintain separate records of valid and invalid write-in votes. Vote percentages have been rounded so for any given county may total slightly more or slightly less than 100 percent.</attrdef>  
+        <attrdefs>National Atlas of the United States</attrdefs>  
+        <attrdomv> 
+          <rdom> 
+            <rdommin>0</rdommin>  
+            <rdommax>13.4</rdommax> 
+          </rdom> 
+        </attrdomv>  
+        <attrdomv> 
+          <edom> 
+            <edomv>-9999</edomv>  
+            <edomvd>Votes are not recorded for the area because there are no permanent residents.</edomvd>  
+            <edomvds>National Atlas of the United States</edomvds> 
+          </edom> 
+        </attrdomv> 
+      </attr>  
+      <attr> 
+        <attrlabl>Symbol_cod</attrlabl>  
+        <attrdef>A code used to determine the symbolization of the area in the National Atlas Map Maker (http://nationalatlas.gov/mapmaker)</attrdef>  
+        <attrdefs>National Atlas of the United States</attrdefs>  
+        <attrdomv> 
+          <rdom> 
+            <rdommin>1</rdommin>  
+            <rdommax>10</rdommax> 
+          </rdom> 
+        </attrdomv> 
+      </attr>  
+      <attr> 
+        <attrlabl>Total_vote</attrlabl>  
+        <attrdef>The total number of votes received as described by vote_rep, vote_dem, and vote_oth.</attrdef>  
+        <attrdefs>National Atlas of the United States</attrdefs>  
+        <attrdomv> 
+          <edom> 
+            <edomv>-9999</edomv>  
+            <edomvd>Votes are not recorded for the area because there are no permanent residents.</edomvd>  
+            <edomvds>National Atlas of the United States</edomvds> 
+          </edom> 
+        </attrdomv>  
+        <attrdomv> 
+          <edom> 
+            <edomv>&lt;blank&gt;</edomv>  
+            <edomvd>A water portion of a State, for which votes are not recorded.</edomvd>  
+            <edomvds>National Atlas of the United States</edomvds> 
+          </edom> 
+        </attrdomv>  
+        <attrdomv> 
+          <rdom> 
+            <rdommin>80</rdommin>  
+            <rdommax>3023280</rdommax> 
+          </rdom> 
+        </attrdomv> 
+      </attr> 
+    </detailed> 
+  </eainfo>  
+  <distinfo> 
+    <distrib> 
+      <cntinfo> 
+        <cntorgp> 
+          <cntorg>Earth Science Information Center, U.S. Geological Survey</cntorg> 
+        </cntorgp>  
+        <cntaddr> 
+          <addrtype>Mailing address</addrtype>  
+          <address>507 National Center</address>  
+          <city>Reston</city>  
+          <state>VA</state>  
+          <postal>20192</postal> 
+        </cntaddr>  
+        <cntvoice>1-888-ASK-USGS (1-888-275-8747)</cntvoice>  
+        <cntvoice>703-648-5920</cntvoice>  
+        <cntinst>In addition to the address above there are other ESIC offices throughout the country. A full list of these offices is at &lt;http://ask.usgs.gov/esic_index.html&gt;.</cntinst> 
+      </cntinfo> 
+    </distrib>  
+    <distliab>Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty expressed or implied is made by the U.S. Geological Survey regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. No responsibility is assumed by the U.S. Geological Survey in the use of these data.</distliab>  
+    <stdorder> 
+      <fees>There is no charge for the map layer.</fees>  
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://dds.cr.usgs.gov/pub/data/nationalatlas/elpo04p020_nt00334.tar.gz</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder> 
+  </distinfo>  
+  <metainfo> 
+    <metd>20090407</metd>  
+    <metc> 
+      <cntinfo> 
+        <cntperp> 
+          <cntper>Terry Higgins</cntper>  
+          <cntorg>National Atlas of the United States</cntorg> 
+        </cntperp>  
+        <cntaddr> 
+          <addrtype>Mailing address</addrtype>  
+          <address>1400 Independence Road</address>  
+          <city>Rolla</city>  
+          <state>MO</state>  
+          <postal>65401</postal> 
+        </cntaddr>  
+        <cntvoice>573-308-3592</cntvoice>  
+        <cntemail>atlasmail@usgs.gov</cntemail> 
+      </cntinfo> 
+    </metc>  
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>  
+    <metstdv>FGDC-STD-001-1998</metstdv>  
+    <metsi> 
+      <metscs>None</metscs>  
+      <metsc>Unclassified</metsc>  
+      <metshd>None</metshd> 
+    </metsi> 
+  </metainfo> 
+</metadata>

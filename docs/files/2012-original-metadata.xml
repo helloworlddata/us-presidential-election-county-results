@@ -1,0 +1,1882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata> 
+  <idinfo> 
+    <citation> 
+      <citeinfo> 
+        <origin>National Atlas of the United States</origin>  
+        <pubdate>201401</pubdate>  
+        <title>Presidential General Election Results - 2012 - Direct Download</title>  
+        <geoform>Vector digital data</geoform>  
+        <pubinfo> 
+          <pubplace>Rolla, MO</pubplace>  
+          <publish>National Atlas of the United States</publish> 
+        </pubinfo>  
+        <onlink>http://dds.cr.usgs.gov/pub/data/nationalatlas/elpo12p010g.shp_nt00887.tar.gz</onlink> 
+      </citeinfo> 
+    </citation>  
+    <descript> 
+      <abstract>This map layer portrays Presidential general election results for 2012, with results reported by county or county equivalent, for the 50 United States and the District of Columbia.</abstract>  
+      <purpose>These data are intended for geographic display and analysis at the national level, and for large regional areas. The data should be displayed and analyzed at scales appropriate for 1:1,000,000-scale data. No responsibility is assumed by the National Atlas of the United States in the use of these data.</purpose>  
+      <supplinf>Information about National Atlas Web services can be found on the Web Map and Web Feature Services page; see http://nationalatlas.gov/infodocs/webservices.html.</supplinf> 
+    </descript>  
+    <timeperd> 
+      <timeinfo> 
+        <rngdates> 
+          <begdate>19641224</begdate>  
+          <enddate>20111231</enddate> 
+        </rngdates> 
+      </timeinfo>  
+      <current>Ground condition</current> 
+    </timeperd>  
+    <status> 
+      <progress>Complete</progress>  
+      <update>As needed</update> 
+    </status>  
+    <spdom> 
+      <bounding> 
+        <westbc>170</westbc>  
+        <eastbc>-64</eastbc>  
+        <northbc>72</northbc>  
+        <southbc>17</southbc> 
+      </bounding> 
+    </spdom>  
+    <keywords> 
+      <theme> 
+        <themekt>ISO 19115 Topic Category</themekt>  
+        <themekey>Society</themekey> 
+      </theme>  
+      <theme> 
+        <themekt>None</themekt>  
+        <themekey>2012 Presidential Election</themekey>  
+        <themekey>Presidential elections</themekey>  
+        <themekey>Elections</themekey>  
+        <themekey>General election</themekey>  
+        <themekey>Popular votes</themekey>  
+        <themekey>Democrat</themekey>  
+        <themekey>Republican</themekey>  
+        <themekey>Votes</themekey>  
+        <themekey>Legislative Districts</themekey>  
+        <themekey>Counties</themekey> 
+      </theme>  
+      <place> 
+        <placekt>Organization for International Standards, 2008, ISO 3166 Country Codes, http://www.iso.org/iso/country_names_and_code_elements.</placekt>  
+        <placekey>United States</placekey>  
+        <placekey>US</placekey> 
+      </place>  
+      <place> 
+        <placekt>None</placekt>  
+        <placekey>USA</placekey> 
+      </place>  
+      <place> 
+        <placekt>U.S. Department of Commerce; 2013; American National Standards Institute (ANSI) Codes for States, the District of Columbia, Puerto Rico, and the Insular Areas of the United States; Washington, DC; U.S. Census Bureau; http://www.census.gov/geo/reference/ansi_statetables.html.</placekt>  
+        <placekey>Alabama</placekey>  
+        <placekey>Alaska</placekey>  
+        <placekey>Arizona</placekey>  
+        <placekey>Arkansas</placekey>  
+        <placekey>California</placekey>  
+        <placekey>Colorado</placekey>  
+        <placekey>Connecticut</placekey>  
+        <placekey>Delaware</placekey>  
+        <placekey>District of Columbia</placekey>  
+        <placekey>Florida</placekey>  
+        <placekey>Georgia</placekey>  
+        <placekey>Hawaii</placekey>  
+        <placekey>Idaho</placekey>  
+        <placekey>Illinois</placekey>  
+        <placekey>Indiana</placekey>  
+        <placekey>Iowa</placekey>  
+        <placekey>Kansas</placekey>  
+        <placekey>Kentucky</placekey>  
+        <placekey>Louisiana</placekey>  
+        <placekey>Maine</placekey>  
+        <placekey>Maryland</placekey>  
+        <placekey>Massachusetts</placekey>  
+        <placekey>Michigan</placekey>  
+        <placekey>Minnesota</placekey>  
+        <placekey>Mississippi</placekey>  
+        <placekey>Missouri</placekey>  
+        <placekey>Montana</placekey>  
+        <placekey>Nebraska</placekey>  
+        <placekey>Nevada</placekey>  
+        <placekey>New Hampshire</placekey>  
+        <placekey>New Jersey</placekey>  
+        <placekey>New Mexico</placekey>  
+        <placekey>New York</placekey>  
+        <placekey>North Carolina</placekey>  
+        <placekey>North Dakota</placekey>  
+        <placekey>Ohio</placekey>  
+        <placekey>Oklahoma</placekey>  
+        <placekey>Oregon</placekey>  
+        <placekey>Pennsylvania</placekey>  
+        <placekey>Rhode Island</placekey>  
+        <placekey>South Carolina</placekey>  
+        <placekey>South Dakota</placekey>  
+        <placekey>Tennessee</placekey>  
+        <placekey>Texas</placekey>  
+        <placekey>Utah</placekey>  
+        <placekey>Vermont</placekey>  
+        <placekey>Virginia</placekey>  
+        <placekey>Washington</placekey>  
+        <placekey>West Virginia</placekey>  
+        <placekey>Wisconsin</placekey>  
+        <placekey>Wyoming</placekey> 
+      </place> 
+    </keywords>  
+    <accconst>None</accconst>  
+    <useconst>None. Acknowledgment of The National Atlas of the United States of America would be appreciated in products derived from these data.</useconst>  
+    <ptcontac> 
+      <cntinfo> 
+        <cntorgp> 
+          <cntorg>National Atlas of the United States</cntorg> 
+        </cntorgp>  
+        <cntaddr> 
+          <addrtype>Mailing and physical address</addrtype>  
+          <address>U.S. Geological Survey</address>  
+          <address>511 National Center</address>  
+          <address>12201 Sunrise Valley Drive</address>  
+          <city>Reston</city>  
+          <state>VA</state>  
+          <postal>20192</postal> 
+        </cntaddr>  
+        <cntvoice>1-888-ASK-USGS (1-888-275-8747)</cntvoice>  
+        <cntemail>atlasmail@usgs.gov</cntemail>  
+        <cntinst>For questions about this map layer or metadata, please contact the National Atlas using the information above, or through the U.S. Geological Survey contact page at http://www.usgs.gov/ask/. For distribution questions, please see the Distribution Information elsewhere in this metadata.</cntinst> 
+      </cntinfo> 
+    </ptcontac> 
+  </idinfo>  
+  <dataqual> 
+    <logic>No checks for logical consistency were performed on this map layer.</logic>  
+    <complete>This map layer includes Presidential election results for the 2012 general election, for the 50 United States and the District of Columbia. The data represent official results as reported by individual States.</complete>  
+    <lineage> 
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>National Atlas of the United States</origin>  
+            <pubdate>201305</pubdate>  
+            <title>1:1,000,000-Scale County Boundaries of the United States</title>  
+            <pubinfo> 
+              <pubplace>Rolla, MO</pubplace>  
+              <publish>National Atlas of the United States</publish> 
+            </pubinfo>  
+            <onlink>http://nationalatlas.gov/atlasftp-1m.html</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>201305</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Publication date</srccurr> 
+        </srctime>  
+        <srccitea>Counties</srccitea>  
+        <srccontr>Spatial and attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Alaska Redistricting Board</origin>  
+            <pubdate>Unpublished material</pubdate>  
+            <title>Alaska Legislative Districts</title> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Electronic mail</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121106</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Ground condition</srccurr> 
+        </srctime>  
+        <srccitea>Alaska legislative districts</srccitea>  
+        <srccontr>Spatial information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Alabama Secretary of State</origin>  
+            <pubdate>20121217</pubdate>  
+            <title>2012 General Election, Statewide Results</title>  
+            <pubinfo> 
+              <pubplace>Montgomery, AL</pubplace>  
+              <publish>Alabama Secretary of State, Elections Division</publish> 
+            </pubinfo>  
+            <onlink>http://alabamavotes.gov/downloads/election/2012/general/statecert-amended-general-12-17-2012.pdf</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121217</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Publication date</srccurr> 
+        </srctime>  
+        <srccitea>Alabama election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>State of Alaska, Division of Elections</origin>  
+            <pubdate>20121128</pubdate>  
+            <title>State of Alaska, 2012 General Election, Official Results</title>  
+            <pubinfo> 
+              <pubplace>Juneau, AK</pubplace>  
+              <publish>State of Alaska, Division of Elections</publish> 
+            </pubinfo>  
+            <onlink>http://www.elections.alaska.gov/ei_return_2012_GENR.php</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121128</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Publication date</srccurr> 
+        </srctime>  
+        <srccitea>Alaska election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Arizona Secretary of State</origin>  
+            <pubdate>20121203</pubdate>  
+            <title>State of Arizona Official Canvass, 2012 General Election</title>  
+            <pubinfo> 
+              <pubplace>Phoenix, AZ</pubplace>  
+              <publish>Arizona Secretary of State</publish> 
+            </pubinfo>  
+            <onlink>http://www.azsos.gov/election/2012/General/Canvass2012GE.pdf</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121203</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Publication date</srccurr> 
+        </srctime>  
+        <srccitea>Arizona election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Arkansas Secretary of State</origin>  
+            <pubdate>20121121</pubdate>  
+            <title>Arkansas State General Election, Official Results</title>  
+            <pubinfo> 
+              <pubplace>Little Rock, AR</pubplace>  
+              <publish>Arkansas Secretary of State, Elections Division</publish> 
+            </pubinfo>  
+            <onlink>http://results.enr.clarityelections.com/AR/42843/113233/en/reports.html</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121121</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Publication date</srccurr> 
+        </srctime>  
+        <srccitea>Arkansas election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>California Secretary of State</origin>  
+            <pubdate>20130410</pubdate>  
+            <title>November 6, 2012, General Election, Supplement to the Statement of Vote</title>  
+            <pubinfo> 
+              <pubplace>Sacramento, CA</pubplace>  
+              <publish>California Secretary of State</publish> 
+            </pubinfo>  
+            <onlink>http://www.sos.ca.gov/elections/sov/2012-general/ssov/ssov-complete.pdf</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20130410</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Publication date</srccurr> 
+        </srctime>  
+        <srccitea>California election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Colorado Secretary of State</origin>  
+            <pubdate>20130503</pubdate>  
+            <title>2012 General Election, Official Results</title>  
+            <pubinfo> 
+              <pubplace>Denver, CO</pubplace>  
+              <publish>Colorado Secretary of State</publish> 
+            </pubinfo>  
+            <onlink>http://results.enr.clarityelections.com/CO/43032/114663/en/reports.html</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20130503</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Publication date</srccurr> 
+        </srctime>  
+        <srccitea>Colorado election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Connecticut Secretary of the State</origin>  
+            <pubdate>20130111</pubdate>  
+            <title>2012 General Election, Statement of Vote</title>  
+            <pubinfo> 
+              <pubplace>Hartford, CT</pubplace>  
+              <publish>Connecticut Secretary of the State</publish> 
+            </pubinfo>  
+            <onlink>http://www.statementofvote-sots.ct.gov/StatementOfVote/WebModules/ReportsLink/PresCounty.aspx</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121106</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Ground condition</srccurr> 
+        </srctime>  
+        <srccitea>Connecticut election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Office of the State Election Commissioner</origin>  
+            <pubdate>20121114</pubdate>  
+            <title>Official Election Results, General Election, November 6, 2012</title>  
+            <pubinfo> 
+              <pubplace>Dover, DE</pubplace>  
+              <publish>Office of the State Election Commissioner</publish> 
+            </pubinfo>  
+            <onlink>http://elections.delaware.gov/results/html/stwoff_kns.shtml</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121114</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Publication date</srccurr> 
+        </srctime>  
+        <srccitea>Delaware election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>District of Columbia, Board of Elections</origin>  
+            <pubdate>20121129</pubdate>  
+            <title>Official Election Results, District of Columbia General and Special Election ? November 6, 2012</title>  
+            <pubinfo> 
+              <pubplace>Washington, DC</pubplace>  
+              <publish>District of Columbia, Board of Elections</publish> 
+            </pubinfo>  
+            <onlink>http://www.voteresults.org/default1112.asp</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121129</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Publication date</srccurr> 
+        </srctime>  
+        <srccitea>DC election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Florida Department of State, Division of Elections</origin>  
+            <pubdate>Unknown</pubdate>  
+            <title>November 6, 2012 General Election, Official Results</title>  
+            <pubinfo> 
+              <pubplace>Tallahassee, FL</pubplace>  
+              <publish>Florida Department of State, Division of Elections</publish> 
+            </pubinfo>  
+            <onlink>http://doe.dos.state.fl.us/elections/resultsarchive/downloadresults.asp?ElectionDate=11/6/2012&amp;DATAMODE=</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121106</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Ground condition</srccurr> 
+        </srctime>  
+        <srccitea>Florida election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Georgia Secretary of State</origin>  
+            <pubdate>20121121</pubdate>  
+            <title>General Election, November 6, 2012, Official Results</title>  
+            <pubinfo> 
+              <pubplace>Atlanta, GA</pubplace>  
+              <publish>Georgia Secretary of State, Elections Division</publish> 
+            </pubinfo>  
+            <onlink>http://results.enr.clarityelections.com/GA/42277/113204/en/reports.html</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121121</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Publication date</srccurr> 
+        </srctime>  
+        <srccitea>Georgia election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>State of Hawaii, Office of Elections</origin>  
+            <pubdate>20121120</pubdate>  
+            <title>2012 General Election, Statement of Vote</title>  
+            <pubinfo> 
+              <pubplace>Pearl City, HI</pubplace>  
+              <publish>State of Hawaii, Office of Elections</publish> 
+            </pubinfo>  
+            <onlink>http://hawaii.gov/elections/results/2012/general/elections/results/2012/general/</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121120</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Publication date</srccurr> 
+        </srctime>  
+        <srccitea>Hawaii election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Idaho Secretary of State</origin>  
+            <pubdate>Unknown</pubdate>  
+            <title>November 6, 2012 General Election Results</title>  
+            <pubinfo> 
+              <pubplace>Boise, ID</pubplace>  
+              <publish>Idaho Secretary of State, Election Division</publish> 
+            </pubinfo>  
+            <onlink>http://www.sos.idaho.gov/elect/results.htm</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121106</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Ground condition</srccurr> 
+        </srctime>  
+        <srccitea>Idaho election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Illinois State Board of Elections</origin>  
+            <pubdate>Unknown</pubdate>  
+            <title>General Election, November 6, 2012, Ballots Cast</title>  
+            <pubinfo> 
+              <pubplace>Springfield, IL</pubplace>  
+              <publish>Illinois State Board of Elections</publish> 
+            </pubinfo>  
+            <onlink>http://www.elections.il.gov/electioninformation/VoteTotalsList.aspx?ElectionType=GE&amp;ElectionID=33&amp;SearchType=OfficeSearch&amp;OfficeID=6279&amp;QueryType=Office&amp;</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121106</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Ground condition</srccurr> 
+        </srctime>  
+        <srccitea>Illinois election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Indiana Secretary of State</origin>  
+            <pubdate>20121128</pubdate>  
+            <title>Indiana General Election, November 6, 2012, Election Results</title>  
+            <pubinfo> 
+              <pubplace>Indianapolis,IN</pubplace>  
+              <publish>Indiana Secretary of State, Elections Division</publish> 
+            </pubinfo>  
+            <onlink>http://www.in.gov/apps/sos/election/general/general2012?page=index&amp;countyID=-1&amp;officeID=-1&amp;districtID=-1&amp;candidate=</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121128</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Publication date</srccurr> 
+        </srctime>  
+        <srccitea>Indiana election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Iowa Secretary of State</origin>  
+            <pubdate>Unknown</pubdate>  
+            <title>Official Results, General Election, November 6, 2012</title>  
+            <pubinfo> 
+              <pubplace>Des Moines, IA</pubplace>  
+              <publish>Iowa Secretary of State</publish> 
+            </pubinfo>  
+            <onlink>http://electionresults.sos.iowa.gov/resultsCTY.aspx?type=FED&amp;rid=1001&amp;osn=1001&amp;map=CTY&amp;PresPage=0</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121106</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Ground condition</srccurr> 
+        </srctime>  
+        <srccitea>Iowa election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Kansas Secretary of State</origin>  
+            <pubdate>Unknown</pubdate>  
+            <title>2012 General Election Results by county</title>  
+            <pubinfo> 
+              <pubplace>Topeka, KS</pubplace>  
+              <publish>Kansas Secretary of State</publish> 
+            </pubinfo>  
+            <onlink>https://www.sos.ks.gov/elections/elections_statistics.html</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121106</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Ground condition</srccurr> 
+        </srctime>  
+        <srccitea>Kansas election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Kentucky State Board of Elections</origin>  
+            <pubdate>Unknown</pubdate>  
+            <title>Official 2012 General Election Results</title>  
+            <pubinfo> 
+              <pubplace>Frankfort, KY</pubplace>  
+              <publish>Kentucky State Board of Elections</publish> 
+            </pubinfo>  
+            <onlink>http://results.enr.clarityelections.com/KY/43107/113206/en/reports.html#</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121106</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Ground condition</srccurr> 
+        </srctime>  
+        <srccitea>Kentucky election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Louisiana Secretary of State</origin>  
+            <pubdate>Unknown</pubdate>  
+            <title>Election Results by Parish, Official Results for election Date 11/06/2012</title>  
+            <pubinfo> 
+              <pubplace>Baton Rouge, LA</pubplace>  
+              <publish>Louisiana Secretary of State</publish> 
+            </pubinfo>  
+            <onlink>http://staticresults.sos.la.gov/11062012/11062012_46257.html</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121106</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Ground condition</srccurr> 
+        </srctime>  
+        <srccitea>Louisiana election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Maine Secretary of State</origin>  
+            <pubdate>Unknown</pubdate>  
+            <title>November 6, 2012, General Election Tabulations</title>  
+            <pubinfo> 
+              <pubplace>Augusta, ME</pubplace>  
+              <publish>Maine Secretary of State; Bureau of Corporations, Elections &amp; Commissions</publish> 
+            </pubinfo>  
+            <onlink>https://www.maine.gov/sos/cec/elec/prior12-13.htm#nov</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121106</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Ground condition</srccurr> 
+        </srctime>  
+        <srccitea>Maine election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Maryland Secretary of State</origin>  
+            <pubdate>20121128</pubdate>  
+            <title>November 6, 2012 General Election Results</title>  
+            <pubinfo> 
+              <pubplace>Annapolis, MD</pubplace>  
+              <publish>Maryland State Board of Elections</publish> 
+            </pubinfo>  
+            <onlink>http://www.elections.state.md.us/elections/2012/results/general/gen_detail_results_2012_4_BOT001-.html</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121128</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Publication date</srccurr> 
+        </srctime>  
+        <srccitea>Maryland election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Secretary of the Commonwealth of Massachusetts</origin>  
+            <pubdate>Unknown</pubdate>  
+            <title>2012 President General Election</title>  
+            <pubinfo> 
+              <pubplace>Boston, MA</pubplace>  
+              <publish>Secretary of the Commonwealth of Massachusetts</publish> 
+            </pubinfo>  
+            <onlink>http://electionstats.state.ma.us/</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121106</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Ground condition</srccurr> 
+        </srctime>  
+        <srccitea>Massachusetts election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Michigan Secretary of State</origin>  
+            <pubdate>20130104</pubdate>  
+            <title>Official Election Results, General Election, November 6, 2012</title>  
+            <pubinfo> 
+              <pubplace>Lansing, MI</pubplace>  
+              <publish>Michigan Secretary of State</publish> 
+            </pubinfo>  
+            <onlink>http://miboecfr.nictusa.com/election/results/12GEN/01000000.html</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20130104</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Publication date</srccurr> 
+        </srctime>  
+        <srccitea>Michigan election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Minnesota Secretary of State</origin>  
+            <pubdate>20121127</pubdate>  
+            <title>Minnesota State Canvassing Report, State General Election, Tuesday, November 6, 2012</title>  
+            <pubinfo> 
+              <pubplace>Saint Paul, MN</pubplace>  
+              <publish>Minnesota Secretary of State</publish> 
+            </pubinfo>  
+            <onlink>http://www.sos.state.mn.us/index.aspx?page=1705</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121127</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Publication date</srccurr> 
+        </srctime>  
+        <srccitea>Minnesota election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Mississippi Secretary of State</origin>  
+            <pubdate>20121203</pubdate>  
+            <title>Total Votes Reported by County for the 2012 General Election, United States President and Vice President</title>  
+            <pubinfo> 
+              <pubplace>Jackson, MS</pubplace>  
+              <publish>Mississippi Secretary of State</publish> 
+            </pubinfo>  
+            <onlink>http://www.sos.ms.gov/elections%5Celectionresults%5C2012General%5Ccertified%20results%5CPresident%20and%20Vice%20President.pdf</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121203</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Publication date</srccurr> 
+        </srctime>  
+        <srccitea>Mississippi election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Missouri Secretary of State</origin>  
+            <pubdate>20121205</pubdate>  
+            <title>Official Election Returns, State of Missouri - General Election, Tuesday, November 06, 2012</title>  
+            <pubinfo> 
+              <pubplace>Jefferson City, MO</pubplace>  
+              <publish>Missouri Secretary of State, Board of State Canvassers</publish> 
+            </pubinfo>  
+            <onlink>http://enr.sos.mo.gov/ENR/Views/TabularData.aspx?TabSRace=SpecifyARace^Races^0^0^0^President,%20Vice%20President^011656688155</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121205</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Publication date</srccurr> 
+        </srctime>  
+        <srccitea>Missouri election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Montana Secretary of State</origin>  
+            <pubdate>20121123</pubdate>  
+            <title>2012 Statewide General Election Canvass</title>  
+            <pubinfo> 
+              <pubplace>Helena, MT</pubplace>  
+              <publish>Montana Secretary of State</publish> 
+            </pubinfo>  
+            <onlink>http://sos.mt.gov/elections/2012/2012_General_Canvass.pdf</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121123</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Publication date</srccurr> 
+        </srctime>  
+        <srccitea>Montana election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Nebraska Secretary of State</origin>  
+            <pubdate>201211</pubdate>  
+            <title>Official Results of Nebraska General Election - November 6, 2012</title>  
+            <pubinfo> 
+              <pubplace>Lincoln, NE</pubplace>  
+              <publish>Nebraska Secretary of State, Election Division</publish> 
+            </pubinfo>  
+            <onlink>http://www.sos.ne.gov/elec/2012/pdf/2012-general-canvass.pdf</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121106</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Ground condition</srccurr> 
+        </srctime>  
+        <srccitea>Nebraska election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Nevada Secretary of State</origin>  
+            <pubdate>20121127</pubdate>  
+            <title>U.S. Presidential Race, Official Results as Canvassed by the Nevada Supreme Court</title>  
+            <pubinfo> 
+              <pubplace>Carson City, NV</pubplace>  
+              <publish>Nevada Secretary of State, Elections Division</publish> 
+            </pubinfo>  
+            <onlink>http://www.silverstateelection.com/USPresidential/index.shtml</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121127</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Publication date</srccurr> 
+        </srctime>  
+        <srccitea>Nevada election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>New Hampshire Secretary of State</origin>  
+            <pubdate>Unknown</pubdate>  
+            <title>President of the United States - 2012 General Election</title>  
+            <pubinfo> 
+              <pubplace>Concord, NH</pubplace>  
+              <publish>New Hampshire Secretary of State, Elections Division</publish> 
+            </pubinfo>  
+            <onlink>http://sos.nh.gov/2012PresGen.aspx</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121106</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Ground condition</srccurr> 
+        </srctime>  
+        <srccitea>New Hampshire election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>State of New Jersey Department of State, Division of Elections</origin>  
+            <pubdate>20130205</pubdate>  
+            <title>2012 Official General Election Results by County</title>  
+            <pubinfo> 
+              <pubplace>Trenton, NJ</pubplace>  
+              <publish>State of New Jersey Department of State, Division of Elections</publish> 
+            </pubinfo>  
+            <onlink>http://nj.gov/state/elections/election-information-archive-2012.html#ge</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20130205</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Publication date</srccurr> 
+        </srctime>  
+        <srccitea>New Jersey election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>New Mexico Secretary of State</origin>  
+            <pubdate>Unknown</pubdate>  
+            <title>Canvass of Returns of General Election Held on November 6, 2012 ? State of New Mexico</title>  
+            <pubinfo> 
+              <pubplace>Santa Fe, NM</pubplace>  
+              <publish>New Mexico Secretary of State, Election Division</publish> 
+            </pubinfo>  
+            <onlink>http://www.sos.state.nm.us/uploads/files/Pages%20from%20ALLNMG12%20CAN%20STATEWIDE.pdf</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121106</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Ground condition</srccurr> 
+        </srctime>  
+        <srccitea>New Mexico election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>New York State Board of Elections</origin>  
+            <pubdate>20130320</pubdate>  
+            <title>NYS Board of Elections President and Vice-President Election Returns Nov. 6, 2012</title>  
+            <pubinfo> 
+              <pubplace>Albany, NY</pubplace>  
+              <publish>New York State Board of Elections</publish> 
+            </pubinfo>  
+            <onlink>http://www.elections.ny.gov/NYSBOE/elections/2012/General/President_04-09-2013.pdf</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20130320</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Publication date</srccurr> 
+        </srctime>  
+        <srccitea>New York election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>North Carolina State Board of Elections</origin>  
+            <pubdate>20130122</pubdate>  
+            <title>November 6, 2012 General Election, Official Results</title>  
+            <pubinfo> 
+              <pubplace>NC</pubplace>  
+              <publish>North Carolina State Board of Elections</publish> 
+            </pubinfo>  
+            <onlink>http://results.enr.clarityelections.com/NC/42923/114645/Web01/en/summary.html#</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20130122</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Publication date</srccurr> 
+        </srctime>  
+        <srccitea>North Carolina election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>North Dakota Secretary of State, Elections Division</origin>  
+            <pubdate>20130423</pubdate>  
+            <title>Official Results General Election - November 6, 2012</title>  
+            <pubinfo> 
+              <pubplace>Bismarck, ND</pubplace>  
+              <publish>North Dakota Secretary of State</publish> 
+            </pubinfo>  
+            <onlink>http://results.sos.nd.gov/resultsCountyList.aspx</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20130423</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Publication date</srccurr> 
+        </srctime>  
+        <srccitea>North Dakota election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Ohio Secretary of State</origin>  
+            <pubdate>Unknown</pubdate>  
+            <title>Official Results for the November 6, 2012 General Election</title>  
+            <pubinfo> 
+              <pubplace>Columbus, OH</pubplace>  
+              <publish>Ohio Secretary of State</publish> 
+            </pubinfo>  
+            <onlink>http://www.sos.state.oh.us/SOS/elections/Research/electResultsMain/2012Results.aspx</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121106</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Ground condition</srccurr> 
+        </srctime>  
+        <srccitea>Ohio election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Oklahoma State Election Board</origin>  
+            <pubdate>20121120</pubdate>  
+            <title>Official Results, General Election, November 6, 2012</title>  
+            <pubinfo> 
+              <pubplace>Oklahoma City, OK</pubplace>  
+              <publish>Oklahoma State Election Board</publish> 
+            </pubinfo>  
+            <onlink>http://www.ok.gov/elections/Candidates_&amp;_Elections/General_Election_-_November_6,_2012.html</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121120</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Publication date</srccurr> 
+        </srctime>  
+        <srccitea>Oklahoma election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Oregon Secretary of State, Elections Division</origin>  
+            <pubdate>Unknown</pubdate>  
+            <title>November 6, 2012, General Election Abstract of Votes, United States President</title>  
+            <pubinfo> 
+              <pubplace>Salem, OR</pubplace>  
+              <publish>Oregon Secretary of State</publish> 
+            </pubinfo>  
+            <onlink>http://oregonvotes.org/doc/history/nov62012/G12_Abstract.pdf</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121106</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Ground condition</srccurr> 
+        </srctime>  
+        <srccitea>Oregon election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Pennsylvania Secretary of State</origin>  
+            <pubdate>Unknown</pubdate>  
+            <title>November 6, 2012 General Election Results</title>  
+            <pubinfo> 
+              <pubplace>Harrisburg, PA</pubplace>  
+              <publish>Pennsylvania Department of State</publish> 
+            </pubinfo>  
+            <onlink>http://www.dos.state.pa.us/portal/server.pt/community/department_of_state/12405</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121106</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Ground condition</srccurr> 
+        </srctime>  
+        <srccitea>Pennsylvania election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Rhode Island Board of Elections</origin>  
+            <pubdate>20121126</pubdate>  
+            <title>2012 General Election, Official Results</title>  
+            <pubinfo> 
+              <pubplace>Providence, RI</pubplace>  
+              <publish>Rhode Island Board of Elections</publish> 
+            </pubinfo>  
+            <onlink>http://www.ri.gov/election/results/2012/general_election//</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121126</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Publication date</srccurr> 
+        </srctime>  
+        <srccitea>Rhode Island election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>South Carolina State Election Commission</origin>  
+            <pubdate>20130409</pubdate>  
+            <title>2012 General Election, Official Results</title>  
+            <pubinfo> 
+              <pubplace>Columbia, SC</pubplace>  
+              <publish>South Carolina State Election Commission</publish> 
+            </pubinfo>  
+            <onlink>http://www.enr-scvotes.org/SC/42513/116143/en/reports.html#</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20130409</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Publication date</srccurr> 
+        </srctime>  
+        <srccitea>South Carolina election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>South Dakota Secretary of State</origin>  
+            <pubdate>20130115</pubdate>  
+            <title>Presidential Electors, 2012 General Election, OFFICIAL RESULTS</title>  
+            <pubinfo> 
+              <pubplace>Pierre, SD</pubplace>  
+              <publish>South Dakota Secretary of State</publish> 
+            </pubinfo>  
+            <onlink>http://sdsos.gov/content/html/elections/electvoterpdfs/2012/GeneralElectionDocs/2012generalelectionstatewidecandidatesbycounty.pdf</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20130115</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Publication date</srccurr> 
+        </srctime>  
+        <srccitea>South Dakota election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Tennessee Secretary of State</origin>  
+            <pubdate>20121205</pubdate>  
+            <title>State of Tennessee, November 6, 2012 General Election</title>  
+            <pubinfo> 
+              <pubplace>Nashville, TN</pubplace>  
+              <publish>Tennessee Secretary of State</publish> 
+            </pubinfo>  
+            <onlink>http://www.tn.gov/sos/election/results/2012-11/USPresidentCountyTotals.pdf</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121205</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Publication date</srccurr> 
+        </srctime>  
+        <srccitea>Tennessee election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Texas Secretary of State</origin>  
+            <pubdate>Unknown</pubdate>  
+            <title>2012 General Election</title>  
+            <pubinfo> 
+              <pubplace>Austin, TX</pubplace>  
+              <publish>Texas Secretary of State, Elections Division</publish> 
+            </pubinfo>  
+            <onlink>http://elections.sos.state.tx.us/elchist.exe</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121106</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Ground condition</srccurr> 
+        </srctime>  
+        <srccitea>Texas election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Utah Lieutenant Governor, Elections</origin>  
+            <pubdate>Unknown</pubdate>  
+            <title>2012 General Election Canvass Report</title>  
+            <pubinfo> 
+              <pubplace>Salt Lake City, UT</pubplace>  
+              <publish>Utah Lieutenant Governor</publish> 
+            </pubinfo>  
+            <onlink>http://elections.utah.gov/Media/Default/2012%20Canvass/2012%20General%20Canvass%20Report.xls</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121106</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Ground condition</srccurr> 
+        </srctime>  
+        <srccitea>Utah election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Vermont Secretary of State, Elections and Campaign Finance Division</origin>  
+            <pubdate>20121113</pubdate>  
+            <title>Official Report of the Canvassing Committee, United States and Vermont Statewide Offices, General Election, November 6, 2012</title>  
+            <pubinfo> 
+              <pubplace>Montpelier, VT</pubplace>  
+              <publish>Vermont Secretary of State, Election Division</publish> 
+            </pubinfo>  
+            <onlink>http://vermont-elections.org/elections1/2012ElectionResults/2012_election_info.html</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121113</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Publication date</srccurr> 
+        </srctime>  
+        <srccitea>Vermont election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Virginia State Board of Elections</origin>  
+            <pubdate>Unknown</pubdate>  
+            <title>November 6, 2012 General Election Official Results</title>  
+            <pubinfo> 
+              <pubplace>Richmond, VA</pubplace>  
+              <publish>Virginia State Board of Elections</publish> 
+            </pubinfo>  
+            <onlink>https://www.voterinfo.sbe.virginia.gov/election/DATA/2012/68C30477-AAF2-46DD-994E-5D3BE8A89C9B/Official/1_l_1323CEA4-0C91-4BA4-BEC1-ECF0B10F499F_s.shtml</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121106</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Ground condition</srccurr> 
+        </srctime>  
+        <srccitea>Virginia election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Washington Secretary of State</origin>  
+            <pubdate>20121205</pubdate>  
+            <title>November 06, 2012 General Election Results</title>  
+            <pubinfo> 
+              <pubplace>Olympia, WA</pubplace>  
+              <publish>Washington Secretary of State</publish> 
+            </pubinfo>  
+            <onlink>http://vote.wa.gov/results/20121106/Export.html</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121205</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Publication date</srccurr> 
+        </srctime>  
+        <srccitea>Washington election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>West Virginia Secretary of State</origin>  
+            <pubdate>Unknown</pubdate>  
+            <title>General Election, November 6, 2012, Official Results</title>  
+            <pubinfo> 
+              <pubplace>Charleston, WV</pubplace>  
+              <publish>West Virginia Secretary of State, Election Division</publish> 
+            </pubinfo>  
+            <onlink>http://apps.sos.wv.gov/elections/results/download.aspx?year=2012&amp;eid=13</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121106</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Ground condition</srccurr> 
+        </srctime>  
+        <srccitea>West Virginia election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Government Accountability Board, State of Wisconsin</origin>  
+            <pubdate>20121226</pubdate>  
+            <title>G.A.B. Canvass Reporting System, County by County Report, 2012 Presidential and General Election</title>  
+            <pubinfo> 
+              <pubplace>Madison, WI</pubplace>  
+              <publish>Government Accountability Board, State of Wisconsin</publish> 
+            </pubinfo>  
+            <onlink>http://gab.wi.gov/sites/default/files/County%20by%20County_11.6.12.xls</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121226</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Publication date</srccurr> 
+        </srctime>  
+        <srccitea>Wisconsin election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <srcinfo> 
+        <srccite> 
+          <citeinfo> 
+            <origin>Wyoming Secretary of State</origin>  
+            <pubdate>Unknown</pubdate>  
+            <title>Statewide Candidates Official Summary Wyoming General Election, November 6, 2012</title>  
+            <pubinfo> 
+              <pubplace>WY</pubplace>  
+              <publish>Wyoming Secretary of State</publish> 
+            </pubinfo>  
+            <onlink>http://soswy.state.wy.us/Elections/Docs/2012/Results/General/2012_Statewide_Candidates_Summary.pdf</onlink> 
+          </citeinfo> 
+        </srccite>  
+        <typesrc>Online</typesrc>  
+        <srctime> 
+          <timeinfo> 
+            <sngdate> 
+              <caldate>20121106</caldate> 
+            </sngdate> 
+          </timeinfo>  
+          <srccurr>Ground condition</srccurr> 
+        </srctime>  
+        <srccitea>Wyoming election results</srccitea>  
+        <srccontr>Attribute information</srccontr> 
+      </srcinfo>  
+      <procstep> 
+        <procdesc>The county boundaries file was used as a starting point. Because Alaska reports results by State legislative district, county boundaries for Alaska were deleted and Alaska legislative district boundaries were added to the file. Kalawao County and Maui County, HI were merged into a single area. The State election results data sets were downloaded and joined to the boundaries file using the FIPS attribute. The Missouri Secretary of State reported Jackson County and Kansas City voting totals separately; the votes for both entities were combined into Jackson County. In New York, both Mitt Romney and Barack Obama appeared on the ballot under more than one party; votes were totaled based on the candidate, not the political party. Oklahoma only reported votes for the Republican and Democratic parties; votes were assigned to the appropriate candidate. Rhode Island and Massachusetts report results by towns and cities. City and town results were aggregated into the county in which the city or town is located. The vote total for cities and towns in Rhode Island does not match the State total, because overseas military and civilians residing overseas are issued ballots that contain only federal offices; these votes are therefore not assigned to a particular city or town and are not included in this data set. Kalawao County and Maui County, Hawaii results are reported together.</procdesc>  
+        <srcused>Counties</srcused>  
+        <srcused>Alaska Legislative Districts</srcused>  
+        <srcused>Alabama election results</srcused>  
+        <srcused>Alaska election results</srcused>  
+        <srcused>Arizona election results</srcused>  
+        <srcused>Arkansas election results</srcused>  
+        <srcused>California election results</srcused>  
+        <srcused>Colorado election results</srcused>  
+        <srcused>Connecticut election results</srcused>  
+        <srcused>Delaware election results</srcused>  
+        <srcused>DC election results</srcused>  
+        <srcused>Florida election results</srcused>  
+        <srcused>Georgia election results</srcused>  
+        <srcused>Hawaii election results</srcused>  
+        <srcused>Idaho election results</srcused>  
+        <srcused>Illinois election results</srcused>  
+        <srcused>Indiana election results</srcused>  
+        <srcused>Iowa election results</srcused>  
+        <srcused>Kansas election results</srcused>  
+        <srcused>Kentucky election results</srcused>  
+        <srcused>Louisiana election results</srcused>  
+        <srcused>Maine election results</srcused>  
+        <srcused>Maryland election results</srcused>  
+        <srcused>Massachusetts election results</srcused>  
+        <srcused>Michigan election results</srcused>  
+        <srcused>Minnesota election results</srcused>  
+        <srcused>Mississippi election results</srcused>  
+        <srcused>Missouri election results</srcused>  
+        <srcused>Montana election results</srcused>  
+        <srcused>Nebraska election results</srcused>  
+        <srcused>Nevada election results</srcused>  
+        <srcused>New Hampshire election results</srcused>  
+        <srcused>New Jersey election results</srcused>  
+        <srcused>New Mexico election results</srcused>  
+        <srcused>New York election results</srcused>  
+        <srcused>North Carolina election results</srcused>  
+        <srcused>North Dakota election results</srcused>  
+        <srcused>Ohio election results</srcused>  
+        <srcused>Oklahoma election results</srcused>  
+        <srcused>Oregon election results</srcused>  
+        <srcused>Pennsylvania election results</srcused>  
+        <srcused>Rhode Island election results</srcused>  
+        <srcused>South Carolina election results</srcused>  
+        <srcused>South Dakota election results</srcused>  
+        <srcused>Tennessee election results</srcused>  
+        <srcused>Texas election results</srcused>  
+        <srcused>Utah election results</srcused>  
+        <srcused>Vermont election results</srcused>  
+        <srcused>Virginia election results</srcused>  
+        <srcused>Washington election results</srcused>  
+        <srcused>West Virginia election results</srcused>  
+        <srcused>Wisconsin election results</srcused>  
+        <srcused>Wyoming election results</srcused>  
+        <procdate>2013</procdate> 
+      </procstep> 
+    </lineage> 
+  </dataqual>  
+  <spdoinfo> 
+    <indspref>U.S. Department of Commerce; 2013; American National Standards Institute (ANSI) Codes for States, the District of Columbia, Puerto Rico, and the Insular Areas of the United States; U.S. Census Bureau. U.S. Department of Commerce; 2009; ANSI Codes for the Identification of Counties and Equivalent Areas of the United States, Puerto Rico, and the Insular Areas; U.S. Census Bureau.</indspref>  
+    <direct>Vector</direct>  
+    <ptvctinf> 
+      <sdtsterm> 
+        <sdtstype>G-Polygon</sdtstype>  
+        <ptvctcnt>3153</ptvctcnt> 
+      </sdtsterm> 
+    </ptvctinf> 
+  </spdoinfo>  
+  <spref> 
+    <horizsys> 
+      <geograph> 
+        <latres>0.000150</latres>  
+        <longres>0.000150</longres>  
+        <geogunit>Decimal degrees</geogunit> 
+      </geograph>  
+      <geodetic> 
+        <horizdn>North American Datum of 1983</horizdn>  
+        <ellips>GRS1980</ellips>  
+        <semiaxis>6378137</semiaxis>  
+        <denflat>298.257222</denflat> 
+      </geodetic> 
+    </horizsys> 
+  </spref>  
+  <eainfo> 
+    <detailed> 
+      <enttyp> 
+        <enttypl>Presidential election results</enttypl>  
+        <enttypd>Presidential election results for the 2012 general election, reported by county or county equivalent for all States except Alaska. Results for Alaska are reported by legislative district.</enttypd>  
+        <enttypds>National Atlas of the United States</enttypds> 
+      </enttyp>  
+      <attr> 
+        <attrlabl>Shape</attrlabl>  
+        <attrdef>The representation of the entity in the data.</attrdef>  
+        <attrdefs>National Atlas of the United States</attrdefs>  
+        <attrdomv> 
+          <edom> 
+            <edomv>Polygon</edomv>  
+            <edomvd>2-dimensional element</edomvd>  
+            <edomvds>ESRI GIS software</edomvds> 
+          </edom> 
+        </attrdomv> 
+      </attr>  
+      <attr> 
+        <attrlabl>State</attrlabl>  
+        <attrdef>The two-character abbreviation for the name of the State in which the county, county equivalent, or legislative district is located.</attrdef>  
+        <attrdefs>National Atlas of the United States</attrdefs>  
+        <attrdomv> 
+          <codesetd> 
+            <codesetn>American National Standards Institute (ANSI) Codes for States, the District of Columbia, Puerto Rico, and the Insular Areas of the United States</codesetn>  
+            <codesets>U.S. Census Bureau</codesets> 
+          </codesetd> 
+        </attrdomv> 
+      </attr>  
+      <attr> 
+        <attrlabl>State_fips</attrlabl>  
+        <attrdef>The two-digit code for the State in which the county, county equivalent, or legislative district is located.</attrdef>  
+        <attrdefs>National Atlas of the United States</attrdefs>  
+        <attrdomv> 
+          <codesetd> 
+            <codesetn>American National Standards Institute (ANSI) Codes for States, the District of Columbia, Puerto Rico, and the Insular Areas of the United States</codesetn>  
+            <codesets>U.S. Department of Commerce</codesets> 
+          </codesetd> 
+        </attrdomv> 
+      </attr>  
+      <attr> 
+        <attrlabl>County</attrlabl>  
+        <attrdef>The name of the county or county equivalent, or the legislative district number.</attrdef>  
+        <attrdefs>National Atlas of the United States</attrdefs>  
+        <attrdomv> 
+          <codesetd> 
+            <codesetn>ANSI Codes for the Identification of Counties and Equivalent Areas of the United States, Puerto Rico, and the Insular Areas</codesetn>  
+            <codesets>U.S. Department of Commerce</codesets> 
+          </codesetd> 
+        </attrdomv>  
+        <attrdomv> 
+          <edom> 
+            <edomv>Legislative District XX</edomv>  
+            <edomvd>The identifier for the Alaska legislative district, where XX is the district number. Districts are numbered from 01 to 40.</edomvd>  
+            <edomvds>National Atlas of the United States</edomvds> 
+          </edom> 
+        </attrdomv> 
+      </attr>  
+      <attr> 
+        <attrlabl>Fips</attrlabl>  
+        <attrdef>The 5-digit FIPS code of the county or county equivalent. The code consists of the 2-digit State code followed by the 3-digit county code. In Alaska, the 5-character Alaska Legislative District number.</attrdef>  
+        <attrdefs>National Atlas of the United States</attrdefs>  
+        <attrdomv> 
+          <codesetd> 
+            <codesetn>ANSI Codes for the Identification of Counties and Equivalent Areas of the United States, Puerto Rico, and the Insular Areas</codesetn>  
+            <codesets>U.S. Department of Commerce</codesets> 
+          </codesetd> 
+        </attrdomv>  
+        <attrdomv> 
+          <edom> 
+            <edomv>ALDxx</edomv>  
+            <edomvd>The 5-character identifier for the Alaska legislative district, where xx is the district number. Districts are numbered from 01 to 40.</edomvd>  
+            <edomvds>National Atlas of the United States</edomvds> 
+          </edom> 
+        </attrdomv> 
+      </attr>  
+      <attr> 
+        <attrlabl>Obama</attrlabl>  
+        <attrdef>For the specified area, the total popular vote received by Barack H. Obama.</attrdef>  
+        <attrdefs>National Atlas of the United States</attrdefs>  
+        <attrdomv> 
+          <rdom> 
+            <rdommin>5</rdommin>  
+            <rdommax>221690</rdommax> 
+          </rdom> 
+        </attrdomv> 
+      </attr>  
+      <attr> 
+        <attrlabl>Romney</attrlabl>  
+        <attrdef>For the specified area, the total popular vote received by W. Mitt Romney.</attrdef>  
+        <attrdefs>National Atlas of the United States</attrdefs>  
+        <attrdomv> 
+          <rdom> 
+            <rdommin>54</rdommin>  
+            <rdommax>885333</rdommax> 
+          </rdom> 
+        </attrdomv> 
+      </attr>  
+      <attr> 
+        <attrlabl>Others</attrlabl>  
+        <attrdef>For the specified area, the total popular vote received by candidates other than Barack H. Obama or W. Mitt Romney.</attrdef>  
+        <attrdefs>National Atlas of the United States</attrdefs>  
+        <attrdomv> 
+          <rdom> 
+            <rdommin>0</rdommin>  
+            <rdommax>78831</rdommax> 
+          </rdom> 
+        </attrdomv> 
+      </attr>  
+      <attr> 
+        <attrlabl>Ttl_vt</attrlabl>  
+        <attrdef>For the specified area, the total number of votes cast for President of the United States.</attrdef>  
+        <attrdefs>National Atlas of the United States</attrdefs>  
+        <attrdomv> 
+          <rdom> 
+            <rdommin>64</rdommin>  
+            <rdommax>3181067</rdommax> 
+          </rdom> 
+        </attrdomv> 
+      </attr>  
+      <attr> 
+        <attrlabl>Pct_obm</attrlabl>  
+        <attrdef>For the specified area, the percentage of votes cast for Barack H. Obama.</attrdef>  
+        <attrdefs>National Atlas of the United States</attrdefs>  
+        <attrdomv> 
+          <rdom> 
+            <rdommin>0.550431</rdommin>  
+            <rdommax>93.386328</rdommax> 
+          </rdom> 
+        </attrdomv> 
+      </attr>  
+      <attr> 
+        <attrlabl>Pct_rom</attrlabl>  
+        <attrdef>For the specified area, the percentage of votes cast for W. Mitt Romney.</attrdef>  
+        <attrdefs>National Atlas of the United States</attrdefs>  
+        <attrdomv> 
+          <rdom> 
+            <rdommin>5.977742</rdommin>  
+            <rdommax>96.14698</rdommax> 
+          </rdom> 
+        </attrdomv> 
+      </attr>  
+      <attr> 
+        <attrlabl>Pct_oth</attrlabl>  
+        <attrdef>For the specified area, the percentage of votes cast for candidates other than Barack H. Obama or W. Mitt Romney.</attrdef>  
+        <attrdefs>National Atlas of the United States</attrdefs>  
+        <attrdomv> 
+          <rdom> 
+            <rdommin>0</rdommin>  
+            <rdommax>14.865709</rdommax> 
+          </rdom> 
+        </attrdomv> 
+      </attr>  
+      <attr> 
+        <attrlabl>Winner</attrlabl>  
+        <attrdef>For the specified area, the name of the winning candidate.</attrdef>  
+        <attrdefs>National Atlas of the United States</attrdefs>  
+        <attrdomv> 
+          <edom> 
+            <edomv>Obama</edomv>  
+            <edomvd>In the specified area, Barack H. Obama received the most votes.</edomvd>  
+            <edomvds>National Atlas of the United States</edomvds> 
+          </edom> 
+        </attrdomv>  
+        <attrdomv> 
+          <edom> 
+            <edomv>Romney</edomv>  
+            <edomvd>In the specified area, W. Mitt Romney received the most votes.</edomvd>  
+            <edomvds>National Atlas of the United States</edomvds> 
+          </edom> 
+        </attrdomv> 
+      </attr>  
+      <attr> 
+        <attrlabl>Pct_wnr</attrlabl>  
+        <attrdef>For the specified area, the percentage of the vote received by the winning candidate.</attrdef>  
+        <attrdefs>National Atlas of the United States</attrdefs>  
+        <attrdomv> 
+          <rdom> 
+            <rdommin>47.867466</rdommin>  
+            <rdommax>96.14698</rdommax> 
+          </rdom> 
+        </attrdomv> 
+      </attr>  
+      <attr> 
+        <attrlabl>Group</attrlabl>  
+        <attrdef>The mapping category used for the area.</attrdef>  
+        <attrdefs>National Atlas of the United States</attrdefs>  
+        <attrdomv> 
+          <edom> 
+            <edomv>11</edomv>  
+            <edomvd>Barack H. Obama received less than 50 percent of the vote.</edomvd>  
+            <edomvds>National Atlas of the United States</edomvds> 
+          </edom> 
+        </attrdomv>  
+        <attrdomv> 
+          <edom> 
+            <edomv>12</edomv>  
+            <edomvd>Barack H. Obama received between 50 and 59.9 percent of the vote.</edomvd>  
+            <edomvds>National Atlas of the United States</edomvds> 
+          </edom> 
+        </attrdomv>  
+        <attrdomv> 
+          <edom> 
+            <edomv>13</edomv>  
+            <edomvd>Barack H. Obama received between 60 and 69.9 percent of the vote.</edomvd>  
+            <edomvds>National Atlas of the United States</edomvds> 
+          </edom> 
+        </attrdomv>  
+        <attrdomv> 
+          <edom> 
+            <edomv>14</edomv>  
+            <edomvd>Barack H. Obama received between 70 and 79.9 percent of the vote.</edomvd>  
+            <edomvds>National Atlas of the United States</edomvds> 
+          </edom> 
+        </attrdomv>  
+        <attrdomv> 
+          <edom> 
+            <edomv>15</edomv>  
+            <edomvd>Barack H. Obama received 80 percent or more of the vote.</edomvd>  
+            <edomvds>National Atlas of the United States</edomvds> 
+          </edom> 
+        </attrdomv>  
+        <attrdomv> 
+          <edom> 
+            <edomv>21</edomv>  
+            <edomvd>W. Mitt Romney received less than 50 percent of the vote.</edomvd>  
+            <edomvds>National Atlas of the United States</edomvds> 
+          </edom> 
+        </attrdomv>  
+        <attrdomv> 
+          <edom> 
+            <edomv>22</edomv>  
+            <edomvd>W. Mitt Romney received between 50 and 59.9 percent of the vote.</edomvd>  
+            <edomvds>National Atlas of the United States</edomvds> 
+          </edom> 
+        </attrdomv>  
+        <attrdomv> 
+          <edom> 
+            <edomv>23</edomv>  
+            <edomvd>W. Mitt Romney received between 60 and 69.9 percent of the vote.</edomvd>  
+            <edomvds>National Atlas of the United States</edomvds> 
+          </edom> 
+        </attrdomv>  
+        <attrdomv> 
+          <edom> 
+            <edomv>24</edomv>  
+            <edomvd>W. Mitt Romney received between 70 and 79.9 percent of the vote.</edomvd>  
+            <edomvds>National Atlas of the United States</edomvds> 
+          </edom> 
+        </attrdomv>  
+        <attrdomv> 
+          <edom> 
+            <edomv>25</edomv>  
+            <edomvd>W. Mitt Romney received 80 percent or more of the vote.</edomvd>  
+            <edomvds>National Atlas of the United States</edomvds> 
+          </edom> 
+        </attrdomv> 
+      </attr> 
+    </detailed> 
+  </eainfo>  
+  <distinfo> 
+    <distrib> 
+      <cntinfo> 
+        <cntorgp> 
+          <cntorg>Earth Explorer, U.S. Geological Survey</cntorg> 
+        </cntorgp>  
+        <cntaddr> 
+          <addrtype>Mailing address</addrtype>  
+          <address>U.S. Geological Survey</address>  
+          <address>47914 252nd Street</address>  
+          <city>Sioux Falls</city>  
+          <state>SD</state>  
+          <postal>57198-0001</postal> 
+        </cntaddr>  
+        <cntvoice>605-594-6116</cntvoice>  
+        <cntvoice>866-573-3222</cntvoice>  
+        <cntemail>custserv@usgs.gov</cntemail> 
+      </cntinfo> 
+    </distrib>  
+    <distliab>Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty expressed or implied is made by the U.S. Geological Survey regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. No responsibility is assumed by the U.S. Geological Survey in the use of these data.</distliab>  
+    <stdorder> 
+      <fees>None</fees>  
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://dds.cr.usgs.gov/pub/data/nationalatlas/elpo12p010g.shp_nt00887.tar.gz</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder> 
+  </distinfo>  
+  <metainfo> 
+    <metd>20140117</metd>  
+    <metc> 
+      <cntinfo> 
+        <cntorgp> 
+          <cntorg>National Atlas of the United States</cntorg> 
+        </cntorgp>  
+        <cntaddr> 
+          <addrtype>Mailing address</addrtype>  
+          <address>U.S. Geological Survey</address>  
+          <address>511 National Center</address>  
+          <address>12201 Sunrise Valley Drive</address>  
+          <city>Reston</city>  
+          <state>VA</state>  
+          <postal>20192</postal> 
+        </cntaddr>  
+        <cntvoice>1-888-ASK-USGS (1-888-275-8747)</cntvoice>  
+        <cntemail>atlasmail@usgs.gov</cntemail> 
+      </cntinfo> 
+    </metc>  
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>  
+    <metstdv>FGDC-STD-001-1998</metstdv>  
+    <metsi> 
+      <metscs>None</metscs>  
+      <metsc>Unclassified</metsc>  
+      <metshd>None</metshd> 
+    </metsi> 
+  </metainfo> 
+</metadata>
