@@ -29,7 +29,10 @@ def collate_year_file(year, infile, fipsfile, omit_wkt):
             d['fips'] = 'AKL' + row['FIPS'][3:]
         else:
             d['fips'] = row['FIPS']
-        d['county'] = fipslookup.get(d['fips']) or row['COUNTY']
+        d['county'] = row['COUNTY']
+
+         # screw this:
+#        d['county'] = fipslookup.get(d['fips']) or row['COUNTY']
 
         if year in ['2004', '2008']:
             d['vote_total'] = int(float(row['TOTAL_VOTE'])) if row['TOTAL_VOTE'] else None
