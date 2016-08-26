@@ -62,14 +62,74 @@ curl \
 
 
 
+
+
 ## Caveats
 
-TK obv
+TK obv.
 
-2012 seems to be off, probably because of my attempt to fix up the county names. will fix later.
+There seems to be errors in the 2012 data. They may have come from my scripts. But I think they may be in the source data. For example, querying for all counties that switched from 2004 to 2008, but __then switched back in 2012__, ranked by the cumulative swing in percentage points for the victor in 2008 and 2012:
 
 
-The other big caveat is that for Alaska, votes aren't tabulated by county, but by legislative district (which may have been redistricted over time). The `fips` column has a non-FIPS value to make that obvious (e.g. `AKL05`). 
+```
+|--------+-------+-------------------------+--------+--------------|
+|  fips  | state | county                  | winner | totes_swing  |
+|--------+-------+-------------------------+--------+--------------|
+|  51683 | VA    | Manassas City           | rep    | 104.2        |
+|  AKL08 | AK    | Legislative District 08 | rep    | 45.5         |
+|  37117 | NC    | Mcdowell                | rep    | 36.4         |
+|  17117 | IL    | Marshall                | rep    | 24.1         |
+|  49035 | UT    | Salt Lake               | rep    | 20.4         |
+|  42047 | PA    | Elk                     | rep    | 20.3         |
+|  17115 | IL    | Marion                  | rep    | 20.2         |
+|  49043 | UT    | Summit                  | rep    | 20.0         |
+|  42021 | PA    | Cambria                 | rep    | 18.7         |
+|  26027 | MI    | Cass                    | rep    | 17.8         |
+|--------+-------+-------------------------+--------+--------------|
+```
+
+I think the Manassas City contains a faulty data point in its 2012 entry, which may be related to how Manassas City didn't really exist in 2004. As for that Alaskan district, as I mention in the caveats, the votes are counted by legislative district, which may have been redrawn.
+
+As for "Mcdowell" county in North Carolina, it seems to have been given the wrong FIPS. Its FIPS should be 37111, not 37117.
+
+TK: Will email Data.gov about this.
+
+
+Here's the query I ran:
+
+
+~~~sh
+
+curl https://raw.githubusercontent.com/dataofnote/us-presidential-election-county-results/master/data/us-presidential-election-county-results-2004-through-2012.csv \
+    | csvsql --query \
+      "SELECT y2012.fips, y2012.state, y2012.county, 
+              y2012.winner,
+             ROUND(y2012.margin_winner_over_runnerup + 
+                   y2008.margin_winner_over_runnerup, 1) AS totes_swing
+      FROM 
+          (SELECT * FROM stdin WHERE year = 2004) AS y2004  
+      INNER JOIN 
+          (SELECT * FROM stdin WHERE year = 2008) AS y2008
+          ON y2004.fips = y2008.fips
+      INNER JOIN 
+          (SELECT * FROM stdin WHERE year = 2012) AS y2012
+          ON y2004.fips = y2012.fips 
+             AND y2004.winner = y2012.winner
+      WHERE       
+        y2004.winner != y2008.winner
+        AND y2008.vote_total > 10000
+      ORDER BY 
+        totes_swing DESC
+      LIMIT 10;"   \
+    | csvlook
+~~~
+
+
+
+
+
+
+The other big caveat is what I mentioned above; for Alaska, votes aren't tabulated by county, but by legislative district (which may have been redistricted over time). The `fips` column has a non-FIPS value to make that obvious (e.g. `AKL05`). 
 
 
 ### Shapefiles
