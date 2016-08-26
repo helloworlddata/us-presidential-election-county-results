@@ -4,6 +4,8 @@ This repo contains U.S. presidential election results __by county__ for the year
 
 (Note: I think the FIPS for 2012 are off. Will email Data.gov about it)
 
+(Update: here's a gist to reproduce the discrepancies https://gist.github.com/dannguyen/2de0fcd2ba3100b4698cd5af6ae61754)
+
 This repo is part of a larger data collection project so I haven't finished writing my notes and methodology, or even double-checked the data. But the data from Data.gov is pretty straightforward, with 2012 having slightly different fieldnames. The scripts in this repo show how I reconciled the 3 datasets into one CSV:
 
 [data/us-presidential-election-county-results-2004-through-2012.csv](data/us-presidential-election-county-results-2004-through-2012.csv)
