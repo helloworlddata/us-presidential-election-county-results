@@ -2,7 +2,7 @@
 
 This repo contains U.S. presidential election results __by county__ for the years 2004, 2008, and 2012. This data comes from the National Atlas of the United States / U.S. Geological Survey and was published on Data.gov.
 
-(Note: I think I screwed up the 2012 data. Will fix later.)
+(Note: I think the FIPS for 2012 are off. Will email Data.gov about it)
 
 This repo is part of a larger data collection project so I haven't finished writing my notes and methodology, or even double-checked the data. But the data from Data.gov is pretty straightforward, with 2012 having slightly different fieldnames. The scripts in this repo show how I reconciled the 3 datasets into one CSV:
 
