@@ -90,7 +90,7 @@ There seems to be errors in the 2012 data. They may have come from my scripts. B
 
 I think the Manassas City contains a faulty data point in its 2012 entry, which may be related to how Manassas City didn't really exist in 2004. As for that Alaskan district, as I mention in the caveats, the votes are counted by legislative district, which may have been redrawn.
 
-As for "Mcdowell" county in North Carolina, it seems to have been given the wrong FIPS. Its FIPS should be 37111, not 37117.
+As for "Mcdowell" county in North Carolina, it seems to have been given the wrong FIPS. Its FIPS should be 37111, not 37117. Marshall County also has a FIPS error. And probably the rest of them, too.
 
 TK: Will email Data.gov about this.
 
