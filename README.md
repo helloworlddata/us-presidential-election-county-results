@@ -57,54 +57,6 @@ curl \
   | csvlook
 ```
 
-Or, every county who switched from 2004 to 2008, and switched back in 2012, ordered by the swing in the victor's percentage points from 2008 to 2012:
-
-```
-|--------+-------------------------------------------+--------+--------------|
-|  state | county                                    | winner | totes_swing  |
-|--------+-------------------------------------------+--------+--------------|
-|  VA    | Manassas City                             | rep    | 104.2        |
-|  AK    | State House District 8, Denali-University | rep    | 45.5         |
-|  NC    | Martin County                             | rep    | 36.4         |
-|  IL    | Macoupin County                           | rep    | 24.1         |
-|  UT    | Salt Lake County                          | rep    | 20.4         |
-|  PA    | Elk County                                | rep    | 20.3         |
-|  IL    | Macon County                              | rep    | 20.2         |
-|  UT    | Summit County                             | rep    | 20.0         |
-|  PA    | Cambria County                            | rep    | 18.7         |
-|  MI    | Cass County                               | rep    | 17.8         |
-|--------+-------------------------------------------+--------+--------------|
-```
-
-
-
-```sh
-  
-curl \
-      https://raw.githubusercontent.com/dataofnote/us-presidential-election-county-results/master/data/us-presidential-election-county-results-2004-through-2012.csv \
-  | csvsql --query \
-      "SELECT y2012.state, y2012.county, 
-              y2012.winner,
-             ROUND(y2012.margin_winner_over_runnerup + 
-                   y2008.margin_winner_over_runnerup, 1) AS totes_swing
-      FROM 
-          (SELECT * FROM stdin WHERE year = 2004) AS y2004  
-      INNER JOIN 
-          (SELECT * FROM stdin WHERE year = 2008) AS y2008
-          ON y2004.fips = y2008.fips
-      INNER JOIN 
-          (SELECT * FROM stdin WHERE year = 2012) AS y2012
-          ON y2004.fips = y2012.fips 
-             AND y2004.winner = y2012.winner
-      WHERE       
-        y2004.winner != y2008.winner
-        AND y2008.vote_total > 10000
-      ORDER BY 
-        totes_swing DESC
-      LIMIT 10;" \
-  | csvlook
-```
-
 
 
 
