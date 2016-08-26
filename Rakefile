@@ -62,26 +62,26 @@ file P_FILES['2004_2012'] => C_FILES.values() do
 end
 
 
-desc "Election results for 2004, 2008, 2012, with WKT data"
-file P_FILES['2004_2012_with_wkt'] => C_FILES.values() do
-    sh ['python',
-        SCRIPTS_DIR / 'collate.py',
-        '2004', C_FILES['2004'], C_FILES['fips'],
-        '>', P_FILES['2004_2012_with_wkt']
-    ].join(' ')
-    sh ['python',
-        SCRIPTS_DIR / 'collate.py',
-        '2008', C_FILES['2008'], C_FILES['fips'],
-        '|', "sed 1d", # skip headers
-        '>>', P_FILES['2004_2012_with_wkt']
-    ].join(' ')
-    sh ['python',
-        SCRIPTS_DIR / 'collate.py',
-        '2012', C_FILES['2012'], C_FILES['fips'],
-        '|', "sed 1d", # skip headers
-        '>>', P_FILES['2004_2012_with_wkt']
-    ].join(' ')
-end
+# desc "Election results for 2004, 2008, 2012, with WKT data"
+# file P_FILES['2004_2012_with_wkt'] => C_FILES.values() do
+#     sh ['python',
+#         SCRIPTS_DIR / 'collate.py',
+#         '2004', C_FILES['2004'], C_FILES['fips'],
+#         '>', P_FILES['2004_2012_with_wkt']
+#     ].join(' ')
+#     sh ['python',
+#         SCRIPTS_DIR / 'collate.py',
+#         '2008', C_FILES['2008'], C_FILES['fips'],
+#         '|', "sed 1d", # skip headers
+#         '>>', P_FILES['2004_2012_with_wkt']
+#     ].join(' ')
+#     sh ['python',
+#         SCRIPTS_DIR / 'collate.py',
+#         '2012', C_FILES['2012'], C_FILES['fips'],
+#         '|', "sed 1d", # skip headers
+#         '>>', P_FILES['2004_2012_with_wkt']
+#     ].join(' ')
+# end
 
 
 desc "Extract a canonical listing of FIPS and readable fips names"

@@ -2,6 +2,8 @@
 
 This repo contains U.S. presidential election results __by county__ for the years 2004, 2008, and 2012. This data comes from the National Atlas of the United States / U.S. Geological Survey and was published on Data.gov.
 
+(Note: I think I screwed up the 2012 data. Will fix later.)
+
 This repo is part of a larger data collection project so I haven't finished writing my notes and methodology, or even double-checked the data. But the data from Data.gov is pretty straightforward, with 2012 having slightly different fieldnames. The scripts in this repo show how I reconciled the 3 datasets into one CSV:
 
 [data/us-presidential-election-county-results-2004-through-2012.csv](data/us-presidential-election-county-results-2004-through-2012.csv)
@@ -64,7 +66,10 @@ curl \
 
 TK obv
 
-The biggest caveat is that for Alaska, votes aren't tabulated by county, but by legislative district (which may have been redistricted over time). The `fips` column has a non-FIPS value to make that obvious (e.g. `AKL05`). 
+2012 seems to be off, probably because of my attempt to fix up the county names. will fix later.
+
+
+The other big caveat is that for Alaska, votes aren't tabulated by county, but by legislative district (which may have been redistricted over time). The `fips` column has a non-FIPS value to make that obvious (e.g. `AKL05`). 
 
 
 ### Shapefiles
